@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 641" width="600" height="641" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">NCR 2760: la pieza que no existe</title>
+<desc id="d">Cuatro pares de barras, antes = 100: piezas 15, tiempo de armado 25, herramientas 0, proveedores 35.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="600" height="641" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Qué se gana preguntando si cada pieza tiene</text>
+<text x="40.0" y="64.3" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >que existir?</text>
+<text x="40.0" y="86.1" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >La terminal de punto de venta NCR 2760, rediseñada con esa pregunta. Cada</text>
+<text x="40.0" y="104.7" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >fila compara contra su propio antes, que vale 100.</text>
+<text x="40.0" y="143.9" font-size="13" fill="#0b0b0b" font-weight="600" text-anchor="start" >piezas</text>
+<rect x="40.0" y="151.9" width="400.0" height="16.0" fill="url(#rayas_gris)" stroke="#8a8984" stroke-width="1.2"/>
+<text x="448.0" y="164.9" font-size="12" fill="#8a8984" font-weight="700" text-anchor="start" >antes · 100</text>
+<rect x="40.0" y="171.9" width="60.0" height="16.0" fill="#2a78d6"/>
+<text x="108.0" y="184.9" font-size="13" fill="#2a78d6" font-weight="700" text-anchor="start" >después · 15</text>
+<text x="40.0" y="223.9" font-size="13" fill="#0b0b0b" font-weight="600" text-anchor="start" >tiempo de armado</text>
+<rect x="40.0" y="231.9" width="400.0" height="16.0" fill="url(#rayas_gris)" stroke="#8a8984" stroke-width="1.2"/>
+<text x="448.0" y="244.9" font-size="12" fill="#8a8984" font-weight="700" text-anchor="start" >100</text>
+<rect x="40.0" y="251.9" width="100.0" height="16.0" fill="#2a78d6"/>
+<text x="148.0" y="264.9" font-size="13" fill="#2a78d6" font-weight="700" text-anchor="start" >25</text>
+<text x="40.0" y="303.9" font-size="13" fill="#0b0b0b" font-weight="600" text-anchor="start" >herramientas de armado</text>
+<rect x="40.0" y="311.9" width="400.0" height="16.0" fill="url(#rayas_gris)" stroke="#8a8984" stroke-width="1.2"/>
+<text x="448.0" y="324.9" font-size="12" fill="#8a8984" font-weight="700" text-anchor="start" >100</text>
+<text x="48.0" y="344.9" font-size="13" fill="#2a78d6" font-weight="700" text-anchor="start" >ninguna</text>
+<text x="40.0" y="383.9" font-size="13" fill="#0b0b0b" font-weight="600" text-anchor="start" >proveedores</text>
+<rect x="40.0" y="391.9" width="400.0" height="16.0" fill="url(#rayas_gris)" stroke="#8a8984" stroke-width="1.2"/>
+<text x="448.0" y="404.9" font-size="12" fill="#8a8984" font-weight="700" text-anchor="start" >100</text>
+<rect x="40.0" y="411.9" width="140.0" height="16.0" fill="#2a78d6"/>
+<text x="188.0" y="424.9" font-size="13" fill="#2a78d6" font-weight="700" text-anchor="start" >35</text>
+<line x1="40.0" y1="455.9" x2="560.0" y2="455.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="482.9" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Con esa pregunta, la NCR 2760 quedó con 85 % menos piezas, 75 %</text>
+<text x="40.0" y="503.1" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >menos tiempo de armado, ninguna herramienta de armado y 65 %</text>
+<text x="40.0" y="523.4" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >menos proveedores.</text>
+<text x="40.0" y="544.1" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >Se estimó que sacar un solo tornillo ahorraba hasta US$12.500 en la vida del</text>
+<text x="40.0" y="561.4" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >producto.</text>
+<text x="40.0" y="585.1" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >Boothroyd, Dewhurst y Knight 2002, §1.5.4 [verificado, primaria]. Cada fila compara contra su</text>
+<text x="40.0" y="600.7" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >propio antes; las filas no se comparan entre sí.</text>
+<text x="40.0" y="622.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

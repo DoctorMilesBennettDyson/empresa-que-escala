@@ -1,0 +1,13 @@
+<style>
+/* Ajuste de aire SOLO para el Manual de empresas que escalan (se inyecta después de _estilo_pdf_a4.html).
+   Orden de recorte de la skill maquetado-impresion: hr → h2 → table → blockquote. El cuerpo no se toca. */
+hr { margin: 2.2mm 0 !important; }
+h2 { margin: 4.2mm 0 1.6mm !important; }
+h3 { margin: 2.8mm 0 1mm !important; }
+table { margin: 1.2mm 0 1.8mm !important; }
+blockquote { margin: 1.4mm 0 1.6mm !important; padding: .8mm 0 .8mm 3mm !important;
+             border-left: 2.2pt solid #000 !important; color: #000 !important; }
+pre { margin: 1.4mm 0 1.8mm !important; }
+/* Bibliografía más chica (requiere pandoc --section-divs): recupera la hoja huérfana sin tocar el cuerpo */
+#anexo-b-fuentes-por-campo p { font-size: 7.8pt !important; line-height: 1.22 !important; margin-bottom: 1.2mm !important; }
+</style>

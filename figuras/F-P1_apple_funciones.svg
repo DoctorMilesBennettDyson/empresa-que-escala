@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 687" width="900" height="687" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Apple 1976-1977: seis funciones, tres personas</title>
+<desc id="d">Matriz de seis funciones por tres personas (Wozniak, Jobs y Markkula), con un punto y el dato del caso donde cada uno cubría la función; la fila 6, sin datos.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="900" height="687" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Quién cubría cada función en Apple, en 1976 y 1977?</text>
+<text x="40.0" y="58.8" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Las seis funciones de §1.1 contra las tres personas que hicieron funcionar la empresa. Cada punto lleva el dato del caso</text>
+<text x="40.0" y="77.4" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >que lo sostiene.</text>
+<text x="347.5" y="119.6" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="middle" >Wozniak</text>
+<text x="347.5" y="138.6" font-size="12" fill="#52514e" font-weight="400" text-anchor="middle" >el producto técnico</text>
+<text x="552.5" y="119.6" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="middle" >Jobs</text>
+<text x="552.5" y="138.6" font-size="12" fill="#52514e" font-weight="400" text-anchor="middle" >la definición del producto y la</text>
+<text x="552.5" y="154.8" font-size="12" fill="#52514e" font-weight="400" text-anchor="middle" >venta</text>
+<text x="757.5" y="119.6" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="middle" >Markkula</text>
+<text x="757.5" y="138.6" font-size="12" fill="#52514e" font-weight="400" text-anchor="middle" >el capital y el método</text>
+<text x="757.5" y="154.8" font-size="12" fill="#52514e" font-weight="400" text-anchor="middle" >comercial</text>
+<line x1="40.0" y1="169.0" x2="860.0" y2="169.0" stroke="#8a8984" stroke-width="1.0"/>
+<text x="40.0" y="198.7" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >1 · Entender al cliente</text>
+<circle cx="669.0" cy="194.5" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="681.0" y="190.5" font-size="11.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >«empatía»: entender al cliente</text>
+<text x="681.0" y="206.0" font-size="11.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >mejor que nadie</text>
+<line x1="40.0" y1="220.0" x2="860.0" y2="220.0" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="249.8" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >2 · Definir el producto</text>
+<circle cx="259.0" cy="245.5" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="271.0" y="249.3" font-size="11.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >ocho ranuras de expansión</text>
+<circle cx="464.0" cy="245.5" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="476.0" y="241.5" font-size="11.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >una máquina terminada, con</text>
+<text x="476.0" y="257.0" font-size="11.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >gabinete</text>
+<circle cx="669.0" cy="245.5" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="681.0" y="241.5" font-size="11.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >«foco»: sacar lo que no</text>
+<text x="681.0" y="257.0" font-size="11.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >importa</text>
+<line x1="40.0" y1="271.1" x2="860.0" y2="271.1" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="300.8" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >3 · Producir con calidad</text>
+<circle cx="259.0" cy="296.6" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="271.0" y="292.6" font-size="11.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >diseño con muy pocos</text>
+<text x="271.0" y="308.1" font-size="11.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >componentes</text>
+<line x1="40.0" y1="322.1" x2="860.0" y2="322.1" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="351.9" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >4 · Vender y distribuir</text>
+<circle cx="464.0" cy="347.6" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="476.0" y="343.6" font-size="11.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >vendió cincuenta Apple I a una</text>
+<text x="476.0" y="359.1" font-size="11.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >tienda</text>
+<circle cx="669.0" cy="347.6" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="681.0" y="343.6" font-size="11.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >«imputar»: la presentación</text>
+<text x="681.0" y="359.1" font-size="11.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >comunica la calidad</text>
+<line x1="40.0" y1="373.2" x2="860.0" y2="373.2" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="402.9" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >5 · Financiar y sobrevivir</text>
+<circle cx="669.0" cy="398.7" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="681.0" y="394.7" font-size="11.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >US$250.000 por un tercio de la</text>
+<text x="681.0" y="410.2" font-size="11.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >empresa</text>
+<line x1="40.0" y1="424.2" x2="860.0" y2="424.2" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="447.2" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >6 · Organizar y aprender</text>
+<text x="552.5" y="447.0" font-size="12" fill="#8a8984" font-weight="400" text-anchor="middle" >el caso no lo cuenta</text>
+<line x1="40.0" y1="461.8" x2="860.0" y2="461.8" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="347.5" y="481.8" font-size="12" fill="#eb6834" font-weight="700" text-anchor="middle" >solo: filas 1, 4 y 5 vacías</text>
+<text x="552.5" y="481.8" font-size="12" fill="#eb6834" font-weight="700" text-anchor="middle" >solo: filas 1, 3 y 5 vacías</text>
+<text x="757.5" y="481.8" font-size="12" fill="#eb6834" font-weight="700" text-anchor="middle" >solo: fila 3 vacía</text>
+<line x1="40.0" y1="504.0" x2="860.0" y2="504.0" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="531.0" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Juntos, los tres llenaban las cinco filas de las que el caso da datos; solo, a cada uno le quedaba al</text>
+<text x="40.0" y="551.2" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >menos una fila vacía. Contar puntos por columna es sumar, y una empresa es un producto: lo que decide</text>
+<text x="40.0" y="571.5" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >es que ninguna fila quede en cero.</text>
+<text x="40.0" y="592.2" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >La pregunta útil no es quién tuvo más mérito, sino qué función está en cero en este negocio y quién la va a cubrir.</text>
+<text x="40.0" y="616.0" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >[reportado — Isaacson 2011; Wozniak 2006; documento en el archivo de Steve Jobs]. A qué función corresponde cada dato es una lectura del caso</text>
+<text x="40.0" y="631.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >[interpretación]: el texto dice «el producto técnico», «la definición del producto y la venta» y «el capital y el método comercial». Que la fila 6 no</text>
+<text x="40.0" y="647.2" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >tenga puntos no dice que nadie la cubriera: el caso no lo cuenta.</text>
+<text x="40.0" y="668.8" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

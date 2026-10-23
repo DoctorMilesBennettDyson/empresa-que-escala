@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 598" width="600" height="598" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Costo por kilo a órbita baja</title>
+<desc id="d">Transbordador espacial ≈ 54.500 dólares por kilo, Falcon 9 ≈ 2.720, y el objetivo declarado del Starship, del orden de 100.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="600" height="598" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Cuánto cuesta subir un kilo a la órbita</text>
+<text x="40.0" y="64.3" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >baja?</text>
+<text x="40.0" y="86.1" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Dólares por kilo, en escala logarítmica: cada marca vale diez veces la</text>
+<text x="40.0" y="104.7" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >anterior.</text>
+<text x="40.0" y="144.9" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >Transbordador espacial</text>
+<text x="40.0" y="161.9" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="start" >1981-2011</text>
+<text x="40.0" y="237.9" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >Falcon 9</text>
+<text x="40.0" y="254.9" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="start" >Jones 2018</text>
+<text x="40.0" y="330.9" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >Starship</text>
+<text x="40.0" y="347.9" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="start" >objetivo declarado, no un dato</text>
+<line x1="40.0" y1="166.9" x2="40.0" y2="206.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="147.5" y1="166.9" x2="147.5" y2="206.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="255.0" y1="166.9" x2="255.0" y2="206.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="362.5" y1="166.9" x2="362.5" y2="206.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<rect x="40.0" y="170.9" width="401.7" height="32.0" fill="#eb6834"/>
+<text x="449.7" y="191.9" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >54.500</text>
+<line x1="40.0" y1="164.9" x2="40.0" y2="208.9" stroke="#8a8984" stroke-width="1.0"/>
+<line x1="40.0" y1="259.9" x2="40.0" y2="299.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="147.5" y1="259.9" x2="147.5" y2="299.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="255.0" y1="259.9" x2="255.0" y2="299.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="362.5" y1="259.9" x2="362.5" y2="299.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="470.0" y1="259.9" x2="470.0" y2="299.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<rect x="40.0" y="263.9" width="261.7" height="32.0" fill="#2a78d6"/>
+<text x="309.7" y="284.9" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >2.720</text>
+<line x1="40.0" y1="257.9" x2="40.0" y2="301.9" stroke="#8a8984" stroke-width="1.0"/>
+<line x1="40.0" y1="352.9" x2="40.0" y2="392.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="147.5" y1="352.9" x2="147.5" y2="392.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="255.0" y1="352.9" x2="255.0" y2="392.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="362.5" y1="352.9" x2="362.5" y2="392.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="470.0" y1="352.9" x2="470.0" y2="392.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<rect x="40.0" y="356.9" width="107.5" height="32.0" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2.25"/>
+<text x="155.5" y="377.9" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >≈ 100</text>
+<line x1="40.0" y1="350.9" x2="40.0" y2="394.9" stroke="#8a8984" stroke-width="1.0"/>
+<text x="40.0" y="408.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >10</text>
+<text x="147.5" y="408.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >100</text>
+<text x="255.0" y="408.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >1.000</text>
+<text x="362.5" y="408.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >10.000</text>
+<text x="470.0" y="408.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >100.000</text>
+<line x1="40.0" y1="432.9" x2="560.0" y2="432.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="459.9" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Del transbordador al Falcon 9, el costo por kilo se dividió por</text>
+<text x="40.0" y="480.1" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >20. El objetivo del Starship pide dividirlo otra vez por 27.</text>
+<text x="40.0" y="500.9" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >Eso no sale de optimizar el cohete anterior: sale de cambiar el diseño entero</text>
+<text x="40.0" y="518.1" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >(figura 2).</text>
+<text x="40.0" y="541.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >Transbordador y Falcon 9: Jones 2018 (NASA). Barra hueca: objetivo declarado por SpaceX, no un</text>
+<text x="40.0" y="557.5" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >costo medido.</text>
+<text x="40.0" y="579.1" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1073" width="600" height="1073" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Amazon: el colchón de 2000</title>
+<desc id="d">Amazon coloca unos US$680 millones en febrero de 2000; la acción cae más del 90 % hasta 2001; primera ganancia anual en 2003. Pets.com cierra en 2000 y Webvan quiebra en 2001.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="600" height="1073" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Qué hizo sobrevivir a Amazon cuando la</text>
+<text x="40.0" y="64.3" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >acción cayó más del 90 %?</text>
+<text x="40.0" y="86.1" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Amazon y el grupo de control entre 1999 y 2003, en orden y sin escala de</text>
+<text x="40.0" y="104.7" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >tiempo: la misma época y la misma tesis, «comercio por internet», con colchón</text>
+<text x="40.0" y="123.4" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >y sin colchón.</text>
+<text x="40.0" y="164.5" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Amazon</text>
+<circle cx="50.0" cy="188.4" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="70.0" y="193.4" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >febrero de 2000</text>
+<text x="70.0" y="210.9" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >coloca bonos convertibles por unos US$680 millones</text>
+<circle cx="50.0" cy="238.3" r="9" fill="#fcfcfb" stroke="#eb6834" stroke-width="2"/>
+<line x1="46.2" y1="234.5" x2="53.8" y2="242.0" stroke="#eb6834" stroke-width="2"/>
+<line x1="46.2" y1="242.0" x2="53.8" y2="234.5" stroke="#eb6834" stroke-width="2"/>
+<text x="70.0" y="243.3" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >semanas después</text>
+<text x="70.0" y="260.8" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >estalla la burbuja de internet: entre fines de 1999 y 2001, la acción cae</text>
+<text x="70.0" y="277.6" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >más del 90 %</text>
+<circle cx="50.0" cy="305.0" r="9" fill="#2a78d6"/>
+<polyline points="46.0,305.2 49.1,308.4 54.3,301.8" fill="none" stroke="#fcfcfb" stroke-width="2.2" stroke-linejoin="round"/>
+<text x="70.0" y="310.0" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >2003</text>
+<text x="70.0" y="327.5" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >primera ganancia anual completa: US$35 millones</text>
+<text x="40.0" y="367.9" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Grupo de control: la misma tesis, sin colchón o con margen por</text>
+<text x="40.0" y="386.8" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >unidad negativo</text>
+<circle cx="50.0" cy="410.7" r="9" fill="#fcfcfb" stroke="#8a8984" stroke-width="2"/>
+<line x1="46.2" y1="406.9" x2="53.8" y2="414.5" stroke="#8a8984" stroke-width="2"/>
+<line x1="46.2" y1="414.5" x2="53.8" y2="406.9" stroke="#8a8984" stroke-width="2"/>
+<text x="70.0" y="415.7" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >Pets.com</text>
+<text x="70.0" y="433.2" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >cierra en 2000</text>
+<circle cx="50.0" cy="460.6" r="9" fill="#fcfcfb" stroke="#8a8984" stroke-width="2"/>
+<line x1="46.2" y1="456.8" x2="53.8" y2="464.3" stroke="#8a8984" stroke-width="2"/>
+<line x1="46.2" y1="464.3" x2="53.8" y2="456.8" stroke="#8a8984" stroke-width="2"/>
+<text x="70.0" y="465.6" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >Webvan</text>
+<text x="70.0" y="483.1" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >construyó depósitos antes de tener la demanda; quiebra en 2001</text>
+<text x="40.0" y="530.9" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >La acción (fines de 1999 = 100)</text>
+<rect x="60.0" y="565.7" width="80.0" height="190.0" fill="url(#rayas_gris)" stroke="#8a8984" stroke-width="1.2"/>
+<text x="100.0" y="557.7" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="middle" >100</text>
+<text x="100.0" y="773.7" font-size="12.5" fill="#52514e" font-weight="600" text-anchor="middle" >fines de 1999</text>
+<rect x="200.0" y="736.7" width="80.0" height="19.0" fill="#eb6834"/>
+<text x="240.0" y="728.7" font-size="13.5" fill="#eb6834" font-weight="700" text-anchor="middle" >menos de 10</text>
+<text x="240.0" y="773.7" font-size="12.5" fill="#52514e" font-weight="600" text-anchor="middle" >2001</text>
+<line x1="50.0" y1="755.7" x2="290.0" y2="755.7" stroke="#8a8984" stroke-width="1.2"/>
+<text x="240.0" y="706.7" font-size="13" fill="#eb6834" font-weight="700" text-anchor="middle" >más del 90 % menos</text>
+<line x1="40.0" y1="803.7" x2="560.0" y2="803.7" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="830.7" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Amazon colocó unos US$680 millones semanas antes del estallido.</text>
+<text x="40.0" y="850.9" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Con la acción en menos de un décimo, ese colchón le dio tiempo</text>
+<text x="40.0" y="871.2" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >hasta su primera ganancia anual, en 2003; Webvan y Pets.com, con</text>
+<text x="40.0" y="891.4" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >la misma tesis, cerraron.</text>
+<text x="40.0" y="912.2" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >«Ese dinero fue el colchón que permitió sobrevivir»: es el nivel 5 (§3.5) en</text>
+<text x="40.0" y="929.4" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >acción. Lo que no se copia: años de pérdidas sin colchón; Amazon tenía acceso a un</text>
+<text x="40.0" y="946.7" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >mercado de capitales excepcional.</text>
+<text x="40.0" y="970.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >Bonos: informe anual de Amazon, 2000 (690 millones de euros, unos US$680 millones de</text>
+<text x="40.0" y="986.0" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >entonces). La caída de la acción, la ganancia de 2003 y el grupo de control: [reportado]. «Más</text>
+<text x="40.0" y="1001.7" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >del 90 %» quiere decir menos de 10 de cada 100: la barra de 2001 marca ese techo. Que el</text>
+<text x="40.0" y="1017.3" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >colchón explique la supervivencia es la lectura del libro [interpretación]; el grupo de</text>
+<text x="40.0" y="1032.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >control no prueba que sea la única causa.</text>
+<text x="40.0" y="1054.5" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

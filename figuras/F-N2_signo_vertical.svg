@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 618" width="600" height="618" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">El signo del margen</title>
+<desc id="d">Dos rectas de ganancia contra unidades vendidas con costo fijo de 1.000: con margen +10 llega al equilibrio en 100 unidades; con margen −5, cada venta agranda la pérdida.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="600" height="618" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Vender más salva un negocio?</text>
+<text x="40.0" y="58.8" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Ganancia del mes según las unidades vendidas, con el mismo costo fijo de</text>
+<text x="40.0" y="77.4" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >1.000 y dos márgenes por unidad.</text>
+<line x1="102.0" y1="370.9" x2="550.0" y2="370.9" stroke="#e6e5e0" stroke-width="1"/>
+<text x="94.0" y="374.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >−2.000</text>
+<line x1="102.0" y1="287.6" x2="550.0" y2="287.6" stroke="#e6e5e0" stroke-width="1"/>
+<text x="94.0" y="291.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >−1.000</text>
+<line x1="102.0" y1="204.2" x2="550.0" y2="204.2" stroke="#8a8984" stroke-width="1.4"/>
+<text x="94.0" y="208.2" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >0</text>
+<line x1="102.0" y1="120.9" x2="550.0" y2="120.9" stroke="#e6e5e0" stroke-width="1"/>
+<text x="94.0" y="124.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >1.000</text>
+<text x="102.0" y="430.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >0</text>
+<text x="214.0" y="430.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >50</text>
+<text x="326.0" y="430.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >100</text>
+<text x="438.0" y="430.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >150</text>
+<text x="550.0" y="430.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >200</text>
+<text x="326.0" y="448.6" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="middle" >unidades vendidas por mes</text>
+<text x="46.0" y="262.6" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="middle" transform="rotate(-90 46 262.56)">ganancia del mes</text>
+<text x="550.0" y="198.2" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >equilibrio</text>
+<line x1="102.0" y1="287.6" x2="550.0" y2="120.9" stroke="#2a78d6" stroke-width="2.5"/>
+<line x1="102.0" y1="287.6" x2="550.0" y2="370.9" stroke="#eb6834" stroke-width="2.5" stroke-dasharray="8 5"/>
+<circle cx="326.0" cy="204.2" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="316.0" y="192.2" font-size="12.5" fill="#0b0b0b" font-weight="700" text-anchor="end" >Q* = CF ÷ m = 100</text>
+<text x="112.0" y="144.9" font-size="12.5" fill="#2a78d6" font-weight="700" text-anchor="start" >— m = +10 por unidad</text>
+<text x="112.0" y="162.9" font-size="12.5" fill="#eb6834" font-weight="700" text-anchor="start" >- - m = −5 por unidad</text>
+<line x1="104.2" y1="291.6" x2="122.2" y2="340.6" stroke="#8a8984" stroke-width="1"/>
+<text x="122.2" y="352.6" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="start" >vender cero: se pierde el costo fijo (1.000)</text>
+<line x1="40.0" y1="470.6" x2="560.0" y2="470.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="497.6" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Con margen positivo, el volumen lleva al equilibrio. Con margen</text>
+<text x="40.0" y="517.8" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >negativo, crecer acelera la quiebra.</text>
+<text x="40.0" y="538.6" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >Si cada unidad empobrece, está prohibido escalar: primero se arregla el margen.</text>
+<text x="40.0" y="562.3" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >Números ilustrativos. El margen m = precio − costo variable se mide con todos los costos</text>
+<text x="40.0" y="577.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >variables: materiales, horas, comisiones, envío.</text>
+<text x="40.0" y="599.5" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

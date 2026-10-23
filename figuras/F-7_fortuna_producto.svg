@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 577" width="900" height="577" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">La fortuna es un producto</title>
+<desc id="d">Cinco barras que se multiplican: habilidad operativa, capital inicial, apoyo externo, supervivencia a eventos de todo o nada y momento del mercado. Con la supervivencia en cero, el resultado es cero.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="900" height="577" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >«Trabajó duro y con inteligencia»: ¿cuánto explica?</text>
+<text x="40.0" y="58.8" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >El resultado es un producto de cinco factores, no una suma. Tres no dependen de la persona.</text>
+<text x="400.0" y="97.9" font-size="12.5" fill="#52514e" font-weight="700" text-anchor="start" >Una trayectoria</text>
+<text x="630.0" y="97.9" font-size="12.5" fill="#52514e" font-weight="700" text-anchor="start" >La misma, con un evento perdido</text>
+<text x="60.0" y="123.9" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >Habilidad operativa</text>
+<text x="60.0" y="139.4" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="start" >se enseña como procedimiento: este libro</text>
+<rect x="400.0" y="113.9" width="190.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="400.0" y="113.9" width="171.0" height="20.0" fill="#2a78d6"/>
+<rect x="630.0" y="113.9" width="190.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="630.0" y="113.9" width="171.0" height="20.0" fill="#2a78d6"/>
+<text x="60.0" y="169.5" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >Capital inicial</text>
+<text x="60.0" y="185.0" font-size="11.5" fill="#8a8984" font-weight="400" text-anchor="start" >no se enseña: fija el punto de partida, no la</text>
+<text x="60.0" y="200.5" font-size="11.5" fill="#8a8984" font-weight="400" text-anchor="start" >pendiente</text>
+<text x="42.0" y="170.5" font-size="17" fill="#8a8984" font-weight="700" text-anchor="start" >×</text>
+<rect x="400.0" y="159.5" width="190.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="400.0" y="159.5" width="114.0" height="20.0" fill="url(#rayas_gris)" stroke="#8a8984" stroke-width="1.2"/>
+<rect x="630.0" y="159.5" width="190.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="630.0" y="159.5" width="114.0" height="20.0" fill="url(#rayas_gris)" stroke="#8a8984" stroke-width="1.2"/>
+<text x="60.0" y="230.5" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >Apoyo externo al riesgo</text>
+<text x="60.0" y="246.0" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="start" >contratos, créditos, compras públicas</text>
+<text x="42.0" y="231.5" font-size="17" fill="#8a8984" font-weight="700" text-anchor="start" >×</text>
+<rect x="400.0" y="220.5" width="190.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="400.0" y="220.5" width="133.0" height="20.0" fill="#2a78d6"/>
+<rect x="630.0" y="220.5" width="190.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="630.0" y="220.5" width="133.0" height="20.0" fill="#2a78d6"/>
+<text x="60.0" y="276.0" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >Supervivencia a eventos de todo o nada</text>
+<text x="60.0" y="291.5" font-size="11.5" fill="#8a8984" font-weight="400" text-anchor="start" >no se enseña; se administra: acotar la apuesta</text>
+<text x="42.0" y="277.0" font-size="17" fill="#8a8984" font-weight="700" text-anchor="start" >×</text>
+<rect x="400.0" y="266.0" width="190.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="400.0" y="266.0" width="152.0" height="20.0" fill="url(#rayas_gris)" stroke="#8a8984" stroke-width="1.2"/>
+<rect x="630.0" y="266.0" width="190.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<text x="636.0" y="281.0" font-size="13" fill="#eb6834" font-weight="700" text-anchor="start" >0</text>
+<text x="60.0" y="321.6" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >El momento del mercado</text>
+<text x="60.0" y="337.1" font-size="11.5" fill="#8a8984" font-weight="400" text-anchor="start" >no se enseña; no estorbar: no vender en pánico ni</text>
+<text x="60.0" y="352.6" font-size="11.5" fill="#8a8984" font-weight="400" text-anchor="start" >apostar todo en un pico</text>
+<text x="42.0" y="322.6" font-size="17" fill="#8a8984" font-weight="700" text-anchor="start" >×</text>
+<rect x="400.0" y="311.6" width="190.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="400.0" y="311.6" width="133.0" height="20.0" fill="url(#rayas_gris)" stroke="#8a8984" stroke-width="1.2"/>
+<rect x="630.0" y="311.6" width="190.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="630.0" y="311.6" width="133.0" height="20.0" fill="url(#rayas_gris)" stroke="#8a8984" stroke-width="1.2"/>
+<line x1="40.0" y1="372.6" x2="860.0" y2="372.6" stroke="#8a8984" stroke-width="1.0"/>
+<text x="42.0" y="398.6" font-size="17" fill="#0b0b0b" font-weight="700" text-anchor="start" >=</text>
+<text x="64.0" y="398.6" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Resultado</text>
+<rect x="400.0" y="384.6" width="40.2" height="22.0" fill="#2a78d6"/>
+<text x="448.2" y="400.6" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >0,21</text>
+<rect x="630.0" y="384.6" width="190.0" height="22" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="638.0" y="400.6" font-size="12" fill="#eb6834" font-weight="700" text-anchor="start" >0: todo en cero</text>
+<line x1="40.0" y1="432.6" x2="860.0" y2="432.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="459.6" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >«Trabajó duro y con inteligencia» describe una barra de cinco y la presenta como la ecuación entera.</text>
+<text x="40.0" y="480.4" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >Lo que se puede hacer con las grises: no estorbar al momento del mercado y acotar las apuestas para que ningún evento único deje un</text>
+<text x="40.0" y="497.6" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >factor en cero.</text>
+<text x="40.0" y="521.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >[hipótesis] Marco para pensar, no modelo estimado: los largos de las barras son ilustrativos y nadie midió cuánto pesa cada factor. Barras rayadas:</text>
+<text x="40.0" y="537.0" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >lo que no depende de la persona.</text>
+<text x="40.0" y="558.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

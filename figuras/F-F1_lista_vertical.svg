@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 549" width="600" height="549" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">La lista de verificación</title>
+<desc id="d">OMS 2009: 15 muertes por cada 1.000 operaciones antes y 8 con la lista. Ontario 2014, lista obligatoria: 7,1 y 6,5, diferencia no significativa.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="600" height="549" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Alcanza con tener una lista de verificación?</text>
+<text x="40.0" y="58.8" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >La lista de verificación quirúrgica en dos estudios. Cada cuadrito es una</text>
+<text x="40.0" y="77.4" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >muerte por cada 1.000 operaciones.</text>
+<text x="40.0" y="118.1" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >OMS, 2009: la lista aplicada en ocho hospitales de ocho países</text>
+<text x="130.0" y="144.8" font-size="12" fill="#52514e" font-weight="600" text-anchor="end" >antes</text>
+<rect x="140.0" y="130.8" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="164.0" y="130.8" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="188.0" y="130.8" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="212.0" y="130.8" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="236.0" y="130.8" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="260.0" y="130.8" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="284.0" y="130.8" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="308.0" y="130.8" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="332.0" y="130.8" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="356.0" y="130.8" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="380.0" y="130.8" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="404.0" y="130.8" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="428.0" y="130.8" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="452.0" y="130.8" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="476.0" y="130.8" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<text x="506.0" y="145.8" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >15</text>
+<text x="130.0" y="172.8" font-size="12" fill="#52514e" font-weight="600" text-anchor="end" >con la lista</text>
+<rect x="140.0" y="158.8" width="20" height="20" rx="1.5" fill="#2a78d6"/>
+<rect x="164.0" y="158.8" width="20" height="20" rx="1.5" fill="#2a78d6"/>
+<rect x="188.0" y="158.8" width="20" height="20" rx="1.5" fill="#2a78d6"/>
+<rect x="212.0" y="158.8" width="20" height="20" rx="1.5" fill="#2a78d6"/>
+<rect x="236.0" y="158.8" width="20" height="20" rx="1.5" fill="#2a78d6"/>
+<rect x="260.0" y="158.8" width="20" height="20" rx="1.5" fill="#2a78d6"/>
+<rect x="284.0" y="158.8" width="20" height="20" rx="1.5" fill="#2a78d6"/>
+<rect x="308.0" y="158.8" width="20" height="20" rx="1.5" fill="#2a78d6"/>
+<text x="338.0" y="173.8" font-size="13.5" fill="#2a78d6" font-weight="700" text-anchor="start" >8</text>
+<text x="140.0" y="198.8" font-size="12.5" fill="#2a78d6" font-weight="700" text-anchor="start" >7 muertes menos de cada 1.000</text>
+<text x="40.0" y="242.3" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >Ontario, 2014: la lista obligatoria por norma en 101 hospitales</text>
+<text x="130.0" y="269.0" font-size="12" fill="#52514e" font-weight="600" text-anchor="end" >antes</text>
+<rect x="140.0" y="255.0" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="164.0" y="255.0" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="188.0" y="255.0" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="212.0" y="255.0" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="236.0" y="255.0" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="260.0" y="255.0" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="284.0" y="255.0" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="308.0" y="255.0" width="2.0" height="20" rx="1.5" fill="#ecebe6"/>
+<rect x="308.0" y="255.0" width="20" height="20" rx="1.5" fill="none" stroke="#8a8984" stroke-width="1" stroke-dasharray="3 2"/>
+<text x="338.0" y="270.0" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >7,1</text>
+<text x="130.0" y="297.0" font-size="12" fill="#52514e" font-weight="600" text-anchor="end" >con la lista</text>
+<rect x="140.0" y="283.0" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="164.0" y="283.0" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="188.0" y="283.0" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="212.0" y="283.0" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="236.0" y="283.0" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="260.0" y="283.0" width="20" height="20" rx="1.5" fill="#ecebe6" stroke="#8a8984" stroke-width="1"/>
+<rect x="284.0" y="283.0" width="10.0" height="20" rx="1.5" fill="#ecebe6"/>
+<rect x="284.0" y="283.0" width="20" height="20" rx="1.5" fill="none" stroke="#8a8984" stroke-width="1" stroke-dasharray="3 2"/>
+<text x="314.0" y="298.0" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >6,5</text>
+<text x="140.0" y="323.0" font-size="12.5" fill="#52514e" font-weight="700" text-anchor="start" >diferencia no significativa</text>
+<line x1="40.0" y1="353.0" x2="560.0" y2="353.0" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="380.0" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Donde se aplicó, la lista bajó la mortalidad de 15 a 8 por cada</text>
+<text x="40.0" y="400.3" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >1.000 operaciones; donde se impuso por norma, no la movió.</text>
+<text x="40.0" y="421.0" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >La lista funciona cuando el equipo la usa de verdad, no cuando se firma. En el</text>
+<text x="40.0" y="438.3" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >estudio de la OMS, además, las complicaciones bajaron de 11 a 7 de cada 100.</text>
+<text x="40.0" y="462.0" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >Muertes por cada 1.000 operaciones = mortalidad en % × 10. OMS: Haynes y otros, NEJM 2009,</text>
+<text x="40.0" y="477.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >antes y después, 7.688 pacientes, de 1,5 % a 0,8 % [verificado, primaria]. Ontario: Urbach y</text>
+<text x="40.0" y="493.2" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >otros, NEJM 2014, de 0,71 % a 0,65 % [verificado, primaria]. Son poblaciones distintas: se</text>
+<text x="40.0" y="508.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >compara el cambio dentro de cada estudio, no los niveles.</text>
+<text x="40.0" y="530.5" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 896" width="600" height="896" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Los cinco niveles</title>
+<desc id="d">Cinco preguntas en escalera: repetir, margen, curva de aprendizaje, lazo y capital. Los niveles 1 y 2 se ven en un dibujo; del 3 al 5 hace falta lápiz.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="600" height="896" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Esto puede crecer? La misma pregunta, cinco</text>
+<text x="40.0" y="64.3" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >veces</text>
+<text x="40.0" y="86.1" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Cada nivel responde una pregunta y entrega lo que el siguiente necesita.</text>
+<text x="40.0" y="126.2" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >Se ven: un dibujo alcanza</text>
+<rect x="40.0" y="137.2" width="464.0" height="87.8" rx="6" fill="#cde2fb" stroke="#2a78d6" stroke-width="1.6"/>
+<text x="52.0" y="161.2" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Nivel 1 · Repetir</text>
+<text x="52.0" y="181.7" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >¿La cosa se repite, o cada vez se empieza de cero?</text>
+<text x="52.0" y="202.6" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="start" >Da: la unidad que se repite</text>
+<line x1="70.0" y1="227.0" x2="84.0" y2="247.0" stroke="#0b0b0b" stroke-width="1.5" marker-end="url(#fl)"/>
+<rect x="54.0" y="249.0" width="464.0" height="87.8" rx="6" fill="#cde2fb" stroke="#2a78d6" stroke-width="1.6"/>
+<text x="66.0" y="273.0" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Nivel 2 · Margen</text>
+<text x="66.0" y="293.5" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >Cada vez que pasa una unidad, ¿entra más de lo que sale?</text>
+<text x="66.0" y="314.4" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="start" >Da: el margen de cada unidad</text>
+<line x1="84.0" y1="338.7" x2="98.0" y2="358.7" stroke="#0b0b0b" stroke-width="1.5" marker-end="url(#fl)"/>
+<text x="40.0" y="373.7" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >Necesitan lápiz: sólo texto y cuenta propia</text>
+<rect x="68.0" y="384.7" width="464.0" height="87.8" rx="6" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="80.0" y="408.7" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Nivel 3 · Curva de aprendizaje</text>
+<text x="80.0" y="429.2" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >¿Cuánto baja el costo cada vez que se duplica la producción?</text>
+<text x="80.0" y="450.1" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="start" >Da: la tasa y las duplicaciones que faltan</text>
+<line x1="98.0" y1="474.5" x2="112.0" y2="494.5" stroke="#0b0b0b" stroke-width="1.5" marker-end="url(#fl)"/>
+<rect x="82.0" y="496.5" width="464.0" height="87.8" rx="6" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="94.0" y="520.5" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Nivel 4 · El lazo</text>
+<text x="94.0" y="541.0" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >¿El sistema se sostiene solo, o hay que empujarlo para siempre?</text>
+<text x="94.0" y="561.9" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="start" >Da: la ganancia del lazo</text>
+<line x1="112.0" y1="586.2" x2="126.0" y2="606.2" stroke="#0b0b0b" stroke-width="1.5" marker-end="url(#fl)"/>
+<rect x="96.0" y="608.2" width="464.0" height="104.6" rx="6" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="108.0" y="632.2" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Nivel 5 · Capital y ruina</text>
+<text x="108.0" y="652.7" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >¿Alcanza el dinero para llegar hasta donde el negocio se sostiene</text>
+<text x="108.0" y="669.6" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >solo?</text>
+<text x="108.0" y="690.5" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="start" >Da: la profundidad y el ancho del pozo</text>
+<line x1="40.0" y1="730.9" x2="560.0" y2="730.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="757.9" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Los niveles 1 y 2 se entienden con un dibujo; del 3 al 5 hace</text>
+<text x="40.0" y="778.1" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >falta lápiz, y por eso casi no circulan.</text>
+<text x="40.0" y="798.9" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >Las cinco respuestas forman un motor: el activo que deja cada etapa es el piso de</text>
+<text x="40.0" y="816.1" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >la misión siguiente.</text>
+<text x="40.0" y="839.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >[hipótesis] Que los niveles 3 a 5 se transmitan peor es la hipótesis central de este libro;</text>
+<text x="40.0" y="855.5" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >nadie la midió todavía.</text>
+<text x="40.0" y="877.1" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

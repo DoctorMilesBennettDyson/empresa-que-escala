@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 554" width="900" height="554" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Un producto, no una suma</title>
+<desc id="d">Seis funciones: A tiene 10 en cinco y 0 en vender; B tiene 6 en las seis. Sumadas gana A, 50 a 36; multiplicadas gana B, 46.656 a 0.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="900" height="554" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Gana la empresa brillante con un hueco o la pareja?</text>
+<text x="40.0" y="58.8" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Seis funciones puntuadas de 0 a 10. En una suma, lo que sobra de una compensa lo que falta de otra; en un producto, no.</text>
+<text x="310.0" y="98.9" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >A · diez en cinco, cero en una</text>
+<text x="580.0" y="98.9" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >B · seis en las seis</text>
+<text x="62.0" y="128.9" font-size="13" fill="#0b0b0b" font-weight="600" text-anchor="start" >Entender al cliente</text>
+<rect x="310.0" y="113.9" width="200.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="310.0" y="113.9" width="200.0" height="20.0" fill="#2a78d6"/>
+<text x="516.0" y="128.9" font-size="12.5" fill="#52514e" font-weight="700" text-anchor="start" >10</text>
+<rect x="580.0" y="113.9" width="200.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="580.0" y="113.9" width="120.0" height="20.0" fill="#2a78d6"/>
+<text x="706.0" y="128.9" font-size="12.5" fill="#52514e" font-weight="700" text-anchor="start" >6</text>
+<text x="62.0" y="160.9" font-size="13" fill="#0b0b0b" font-weight="600" text-anchor="start" >Definir el producto</text>
+<text x="42.0" y="161.9" font-size="17" fill="#8a8984" font-weight="700" text-anchor="start" >×</text>
+<rect x="310.0" y="145.9" width="200.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="310.0" y="145.9" width="200.0" height="20.0" fill="#2a78d6"/>
+<text x="516.0" y="160.9" font-size="12.5" fill="#52514e" font-weight="700" text-anchor="start" >10</text>
+<rect x="580.0" y="145.9" width="200.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="580.0" y="145.9" width="120.0" height="20.0" fill="#2a78d6"/>
+<text x="706.0" y="160.9" font-size="12.5" fill="#52514e" font-weight="700" text-anchor="start" >6</text>
+<text x="62.0" y="192.9" font-size="13" fill="#0b0b0b" font-weight="600" text-anchor="start" >Producir con calidad</text>
+<text x="42.0" y="193.9" font-size="17" fill="#8a8984" font-weight="700" text-anchor="start" >×</text>
+<rect x="310.0" y="177.9" width="200.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="310.0" y="177.9" width="200.0" height="20.0" fill="#2a78d6"/>
+<text x="516.0" y="192.9" font-size="12.5" fill="#52514e" font-weight="700" text-anchor="start" >10</text>
+<rect x="580.0" y="177.9" width="200.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="580.0" y="177.9" width="120.0" height="20.0" fill="#2a78d6"/>
+<text x="706.0" y="192.9" font-size="12.5" fill="#52514e" font-weight="700" text-anchor="start" >6</text>
+<text x="62.0" y="224.9" font-size="13" fill="#0b0b0b" font-weight="600" text-anchor="start" >Vender y distribuir</text>
+<text x="42.0" y="225.9" font-size="17" fill="#8a8984" font-weight="700" text-anchor="start" >×</text>
+<rect x="310.0" y="209.9" width="200.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<text x="316.0" y="224.9" font-size="13" fill="#eb6834" font-weight="700" text-anchor="start" >0</text>
+<rect x="580.0" y="209.9" width="200.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="580.0" y="209.9" width="120.0" height="20.0" fill="#2a78d6"/>
+<text x="706.0" y="224.9" font-size="12.5" fill="#52514e" font-weight="700" text-anchor="start" >6</text>
+<text x="62.0" y="256.9" font-size="13" fill="#0b0b0b" font-weight="600" text-anchor="start" >Financiar y sobrevivir</text>
+<text x="42.0" y="257.9" font-size="17" fill="#8a8984" font-weight="700" text-anchor="start" >×</text>
+<rect x="310.0" y="241.9" width="200.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="310.0" y="241.9" width="200.0" height="20.0" fill="#2a78d6"/>
+<text x="516.0" y="256.9" font-size="12.5" fill="#52514e" font-weight="700" text-anchor="start" >10</text>
+<rect x="580.0" y="241.9" width="200.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="580.0" y="241.9" width="120.0" height="20.0" fill="#2a78d6"/>
+<text x="706.0" y="256.9" font-size="12.5" fill="#52514e" font-weight="700" text-anchor="start" >6</text>
+<text x="62.0" y="288.9" font-size="13" fill="#0b0b0b" font-weight="600" text-anchor="start" >Organizar y aprender</text>
+<text x="42.0" y="289.9" font-size="17" fill="#8a8984" font-weight="700" text-anchor="start" >×</text>
+<rect x="310.0" y="273.9" width="200.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="310.0" y="273.9" width="200.0" height="20.0" fill="#2a78d6"/>
+<text x="516.0" y="288.9" font-size="12.5" fill="#52514e" font-weight="700" text-anchor="start" >10</text>
+<rect x="580.0" y="273.9" width="200.0" height="20" fill="none" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="580.0" y="273.9" width="120.0" height="20.0" fill="#2a78d6"/>
+<text x="706.0" y="288.9" font-size="12.5" fill="#52514e" font-weight="700" text-anchor="start" >6</text>
+<line x1="40.0" y1="309.9" x2="860.0" y2="309.9" stroke="#8a8984" stroke-width="1.0"/>
+<text x="62.0" y="338.9" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Sumadas</text>
+<text x="310.0" y="339.9" font-size="17" fill="#52514e" font-weight="700" text-anchor="start" >50 · gana</text>
+<text x="580.0" y="339.9" font-size="17" fill="#52514e" font-weight="700" text-anchor="start" >36</text>
+<text x="62.0" y="372.9" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Multiplicadas</text>
+<text x="310.0" y="373.9" font-size="17" fill="#eb6834" font-weight="700" text-anchor="start" >0 · todo en cero</text>
+<text x="580.0" y="373.9" font-size="17" fill="#2a78d6" font-weight="700" text-anchor="start" >46.656 · gana</text>
+<line x1="40.0" y1="405.9" x2="860.0" y2="405.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="432.9" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Sumadas, gana la brillante: 50 contra 36. Multiplicadas, gana la pareja: un solo cero deja todo en</text>
+<text x="40.0" y="453.2" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >cero.</text>
+<text x="40.0" y="473.9" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >Por eso la pregunta útil no es quién tuvo más mérito, sino qué función está en cero en este negocio y quién la va a cubrir.</text>
+<text x="40.0" y="497.7" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >Puntajes ilustrativos. Las seis funciones son una agrupación didáctica [hipótesis], y que el resultado sea un producto es un supuesto de modelo, con</text>
+<text x="40.0" y="513.3" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >antecedentes: Kremer (1993), la producción en la que una sola tarea mal hecha arruina el conjunto.</text>
+<text x="40.0" y="534.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

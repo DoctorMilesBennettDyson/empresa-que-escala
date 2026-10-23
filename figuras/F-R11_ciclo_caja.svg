@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 768" width="900" height="768" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">El ciclo de caja</title>
+<desc id="d">Arriba, dos líneas de tiempo: A tiene la plata afuera 60 días; B tiene la del cliente 30 días. Abajo, la caja contra las ventas: A atrapa 200.000 con ventas de 100.000 al mes; B junta 100.000.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="900" height="768" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Vender más trae caja o se la lleva?</text>
+<text x="40.0" y="58.8" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Dos comercios que venden lo mismo: uno paga antes de cobrar y el otro cobra antes de pagar.</text>
+<text x="40.0" y="99.4" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >A · Paga al contado, vende a los 30 días y cobra a 30 días</text>
+<line x1="40.0" y1="130.2" x2="860.0" y2="130.2" stroke="#e6e5e0" stroke-width="2"/>
+<text x="40.0" y="120.2" font-size="12" fill="#52514e" font-weight="600" text-anchor="start" >paga</text>
+<circle cx="40.0" cy="130.2" r="5" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="2"/>
+<text x="450.0" y="120.2" font-size="12" fill="#52514e" font-weight="600" text-anchor="middle" >vende</text>
+<circle cx="450.0" cy="130.2" r="5" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="2"/>
+<text x="860.0" y="120.2" font-size="12" fill="#52514e" font-weight="600" text-anchor="end" >cobra</text>
+<circle cx="860.0" cy="130.2" r="5" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="2"/>
+<rect x="40.0" y="140.2" width="820.0" height="14.0" fill="url(#rayas)" stroke="#eb6834" stroke-width="1.5"/>
+<text x="40.0" y="172.2" font-size="12.5" fill="#eb6834" font-weight="700" text-anchor="start" >60 días con la plata propia afuera</text>
+<text x="40.0" y="205.7" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >B · Cobra en el acto y le paga al proveedor a 45 días</text>
+<line x1="40.0" y1="236.4" x2="860.0" y2="236.4" stroke="#e6e5e0" stroke-width="2"/>
+<text x="40.0" y="226.4" font-size="12" fill="#52514e" font-weight="600" text-anchor="start" >compra</text>
+<circle cx="40.0" cy="236.4" r="5" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="2"/>
+<text x="245.0" y="226.4" font-size="12" fill="#52514e" font-weight="600" text-anchor="middle" >vende y cobra</text>
+<circle cx="245.0" cy="236.4" r="5" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="2"/>
+<text x="655.0" y="226.4" font-size="12" fill="#52514e" font-weight="600" text-anchor="middle" >paga</text>
+<circle cx="655.0" cy="236.4" r="5" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="2"/>
+<rect x="245.0" y="246.4" width="410.0" height="14.0" fill="#2a78d6"/>
+<text x="245.0" y="278.4" font-size="12.5" fill="#2a78d6" font-weight="700" text-anchor="start" >30 días con la plata del cliente en la caja</text>
+<line x1="40.0" y1="292.4" x2="40.0" y2="297.4" stroke="#8a8984" stroke-width="1.0"/>
+<text x="40.0" y="310.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >día 0</text>
+<line x1="245.0" y1="292.4" x2="245.0" y2="297.4" stroke="#8a8984" stroke-width="1.0"/>
+<text x="245.0" y="310.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >día 15</text>
+<line x1="450.0" y1="292.4" x2="450.0" y2="297.4" stroke="#8a8984" stroke-width="1.0"/>
+<text x="450.0" y="310.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >día 30</text>
+<line x1="655.0" y1="292.4" x2="655.0" y2="297.4" stroke="#8a8984" stroke-width="1.0"/>
+<text x="655.0" y="310.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >día 45</text>
+<line x1="860.0" y1="292.4" x2="860.0" y2="297.4" stroke="#8a8984" stroke-width="1.0"/>
+<text x="860.0" y="310.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >día 60</text>
+<text x="40.0" y="338.4" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >La caja según cuánto se vende por mes</text>
+<line x1="104.0" y1="356.4" x2="655.0" y2="356.4" stroke="#e6e5e0" stroke-width="1"/>
+<text x="97.0" y="360.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >+100.000</text>
+<line x1="104.0" y1="423.0" x2="655.0" y2="423.0" stroke="#8a8984" stroke-width="1.2"/>
+<text x="97.0" y="427.0" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >0</text>
+<line x1="104.0" y1="489.7" x2="655.0" y2="489.7" stroke="#e6e5e0" stroke-width="1"/>
+<text x="97.0" y="493.7" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >−100.000</text>
+<line x1="104.0" y1="556.4" x2="655.0" y2="556.4" stroke="#e6e5e0" stroke-width="1"/>
+<text x="97.0" y="560.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >−200.000</text>
+<text x="104.0" y="574.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >0</text>
+<text x="241.8" y="574.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >25.000</text>
+<text x="379.5" y="574.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >50.000</text>
+<text x="517.2" y="574.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >75.000</text>
+<text x="655.0" y="574.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >100.000</text>
+<text x="379.5" y="592.4" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="middle" >ventas por mes</text>
+<text x="46.0" y="456.4" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="middle" transform="rotate(-90 46 456.38)">caja a favor (+) o atrapada (−)</text>
+<line x1="104.0" y1="423.0" x2="655.0" y2="556.4" stroke="#eb6834" stroke-width="2.6" stroke-dasharray="8 5"/>
+<line x1="104.0" y1="423.0" x2="655.0" y2="356.4" stroke="#2a78d6" stroke-width="2.6"/>
+<text x="667.0" y="361.4" font-size="12.5" fill="#2a78d6" font-weight="700" text-anchor="start" >B: cada venta de más trae caja</text>
+<text x="667.0" y="378.4" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="start" >+100.000 con 100.000 al mes</text>
+<text x="667.0" y="518.4" font-size="12.5" fill="#eb6834" font-weight="700" text-anchor="start" >A: cada venta de más</text>
+<text x="667.0" y="535.4" font-size="12.5" fill="#eb6834" font-weight="700" text-anchor="start" >atrapa caja</text>
+<text x="667.0" y="552.4" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="start" >−200.000 con 100.000 al mes</text>
+<line x1="40.0" y1="620.4" x2="860.0" y2="620.4" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="647.4" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Con ciclo de caja positivo, cada venta de más atrapa dinero; con ciclo negativo, cada venta de más lo</text>
+<text x="40.0" y="667.6" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >trae. Cobrar antes de pagar financia el crecimiento sin pedir prestado.</text>
+<text x="40.0" y="688.4" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >Es lo que hace Amazon: el cliente paga al comprar y el proveedor cobra semanas después.</text>
+<text x="40.0" y="712.1" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >Números ilustrativos. Caja atrapada ≈ ventas por día × días entre pagarle al proveedor y cobrarle al cliente; si se cobra antes de pagar, el signo se</text>
+<text x="40.0" y="727.8" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >invierte. Se ignora el margen.</text>
+<text x="40.0" y="749.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

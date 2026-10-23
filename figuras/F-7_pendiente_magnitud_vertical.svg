@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 669" width="600" height="669" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Pendiente y magnitud</title>
+<desc id="d">Dos rectas paralelas en escala logarítmica, una que arranca en 10.000 dólares y otra en 180 millones: la pendiente es la misma y se copia; la distancia es el punto de partida y no se copia.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="600" height="669" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Qué se copia de una gran fortuna, y qué no?</text>
+<text x="40.0" y="58.8" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Dos puntos de partida con la misma pendiente, en escala logarítmica: cada</text>
+<text x="40.0" y="77.4" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >marca vale mil veces la anterior.</text>
+<line x1="132.0" y1="434.6" x2="490.0" y2="434.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="124.0" y="438.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >mil</text>
+<line x1="132.0" y1="327.9" x2="490.0" y2="327.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="124.0" y="331.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >un millón</text>
+<line x1="132.0" y1="221.2" x2="490.0" y2="221.2" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="124.0" y="225.2" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >mil millones</text>
+<line x1="132.0" y1="114.6" x2="490.0" y2="114.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="124.0" y="118.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >un billón</text>
+<text x="132.0" y="452.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >0</text>
+<text x="221.5" y="452.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >año 5</text>
+<text x="311.0" y="452.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >año 10</text>
+<text x="400.5" y="452.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >año 15</text>
+<text x="490.0" y="452.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >año 20</text>
+<text x="44.0" y="274.6" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="middle" transform="rotate(-90 44 274.56)">dólares (escala logarítmica)</text>
+<line x1="132.0" y1="247.7" x2="490.0" y2="140.7" stroke="#eb6834" stroke-width="3"/>
+<circle cx="132.0" cy="247.7" r="5" fill="#eb6834"/>
+<line x1="132.0" y1="399.0" x2="490.0" y2="292.0" stroke="#2a78d6" stroke-width="3"/>
+<circle cx="132.0" cy="399.0" r="5" fill="#2a78d6"/>
+<text x="139.2" y="269.7" font-size="12" fill="#eb6834" font-weight="700" text-anchor="start" >arranca con ≈ US$180 millones</text>
+<text x="139.2" y="284.7" font-size="11" fill="#eb6834" font-weight="400" text-anchor="start" >[reportado]</text>
+<text x="139.2" y="421.0" font-size="12" fill="#2a78d6" font-weight="700" text-anchor="start" >arranca con US$10.000</text>
+<line x1="382.6" y1="320.1" x2="382.6" y2="176.8" stroke="#0b0b0b" stroke-width="1.3" marker-end="url(#fl)" marker-start="url(#fl)"/>
+<text x="392.6" y="242.4" font-size="12.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >punto de partida: × 18.000</text>
+<text x="392.6" y="259.4" font-size="12.5" fill="#eb6834" font-weight="700" text-anchor="start" >no se copia</text>
+<path d="M203.6,377.6 H275.2 V356.2" fill="none" stroke="#0b0b0b" stroke-width="1.2" stroke-dasharray="3 2"/>
+<text x="283.2" y="407.6" font-size="12.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >pendiente: × 2 cada 2 años</text>
+<text x="283.2" y="424.6" font-size="12.5" fill="#2a78d6" font-weight="700" text-anchor="start" >se copia</text>
+<line x1="40.0" y1="488.6" x2="560.0" y2="488.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="515.6" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >La parte que se puede enseñar no da la magnitud: da la</text>
+<text x="40.0" y="535.8" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >pendiente.</text>
+<text x="40.0" y="556.6" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >Las dos líneas son paralelas porque crecen igual. La distancia entre ellas es el</text>
+<text x="40.0" y="573.8" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >punto de partida, y a escala pequeña la pendiente es lo único que cambia una vida.</text>
+<text x="40.0" y="597.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >Ilustrativa: las dos se duplican cada 2 años. US$180 millones es lo que se reportó que Musk</text>
+<text x="40.0" y="613.2" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >obtuvo de la venta de su empresa anterior en 2002 [reportado]; US$10.000, un taller que</text>
+<text x="40.0" y="628.8" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >arranca.</text>
+<text x="40.0" y="650.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

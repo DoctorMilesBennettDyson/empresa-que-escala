@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 615" width="900" height="615" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">De la misión al material</title>
+<desc id="d">Nueve eslabones: misión a Marte, reutilización, recarga en órbita, cadencia, propelente fabricado en Marte, motor de metano, fabricación barata, estructura soldada y acero inoxidable.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="900" height="615" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Por qué un cohete de acero, el material de las ollas?</text>
+<text x="40.0" y="58.8" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >De la misión al material en nueve eslabones: cada uno obliga al siguiente.</text>
+<rect x="40.0" y="85.9" width="246.7" height="98.6" rx="6" fill="#fcfcfb" stroke="#0b0b0b" stroke-width="2"/>
+<circle cx="60.0" cy="106.9" r="11" fill="#2a78d6"/>
+<text x="60.0" y="111.4" font-size="12" fill="#fcfcfb" font-weight="700" text-anchor="middle" >1</text>
+<text x="78.0" y="111.9" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Misión</text>
+<text x="54.0" y="135.9" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >carga masiva a Marte: el costo por</text>
+<text x="54.0" y="152.1" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >kilo tiene que bajar unas 27 veces</text>
+<line x1="289.7" y1="135.2" x2="323.7" y2="135.2" stroke="#0b0b0b" stroke-width="1.5" marker-end="url(#fl)"/>
+<rect x="326.7" y="85.9" width="246.7" height="98.6" rx="6" fill="#fcfcfb" stroke="#8a8984" stroke-width="1"/>
+<circle cx="346.7" cy="106.9" r="11" fill="#2a78d6"/>
+<text x="346.7" y="111.4" font-size="12" fill="#fcfcfb" font-weight="700" text-anchor="middle" >2</text>
+<text x="364.7" y="111.9" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Reutilización</text>
+<text x="340.7" y="135.9" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >un cohete que se tira no llega: hay</text>
+<text x="340.7" y="152.1" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >que reutilizar las dos etapas</text>
+<line x1="576.3" y1="135.2" x2="610.3" y2="135.2" stroke="#0b0b0b" stroke-width="1.5" marker-end="url(#fl)"/>
+<rect x="613.3" y="85.9" width="246.7" height="98.6" rx="6" fill="#fcfcfb" stroke="#8a8984" stroke-width="1"/>
+<circle cx="633.3" cy="106.9" r="11" fill="#2a78d6"/>
+<text x="633.3" y="111.4" font-size="12" fill="#fcfcfb" font-weight="700" text-anchor="middle" >3</text>
+<text x="651.3" y="111.9" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Recarga en órbita</text>
+<text x="627.3" y="135.9" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >no alcanza sin varios vuelos</text>
+<text x="627.3" y="152.1" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >cisterna por cada vuelo útil</text>
+<path d="M736.7,187.5 V206.5 H163.3 V225.5" fill="none" stroke="#0b0b0b" stroke-width="1.5" marker-end="url(#fl)"/>
+<rect x="40.0" y="228.5" width="246.7" height="98.6" rx="6" fill="#fcfcfb" stroke="#8a8984" stroke-width="1"/>
+<circle cx="60.0" cy="249.5" r="11" fill="#2a78d6"/>
+<text x="60.0" y="254.0" font-size="12" fill="#fcfcfb" font-weight="700" text-anchor="middle" >4</text>
+<text x="78.0" y="254.5" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Cadencia</text>
+<text x="54.0" y="278.5" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >una ventana hacia Marte cada 26</text>
+<text x="54.0" y="294.7" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >meses: lanzar seguido pasa a ser</text>
+<text x="54.0" y="310.9" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >requisito</text>
+<line x1="289.7" y1="277.8" x2="323.7" y2="277.8" stroke="#0b0b0b" stroke-width="1.5" marker-end="url(#fl)"/>
+<rect x="326.7" y="228.5" width="246.7" height="98.6" rx="6" fill="#fcfcfb" stroke="#8a8984" stroke-width="1"/>
+<circle cx="346.7" cy="249.5" r="11" fill="#2a78d6"/>
+<text x="346.7" y="254.0" font-size="12" fill="#fcfcfb" font-weight="700" text-anchor="middle" >5</text>
+<text x="364.7" y="254.5" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Propelente</text>
+<text x="340.7" y="278.5" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >el de la vuelta se fabrica allá con</text>
+<text x="340.7" y="294.7" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >CO₂ y agua (Sabatier): metano y</text>
+<text x="340.7" y="310.9" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >oxígeno</text>
+<line x1="576.3" y1="277.8" x2="610.3" y2="277.8" stroke="#0b0b0b" stroke-width="1.5" marker-end="url(#fl)"/>
+<rect x="613.3" y="228.5" width="246.7" height="98.6" rx="6" fill="#fcfcfb" stroke="#8a8984" stroke-width="1"/>
+<circle cx="633.3" cy="249.5" r="11" fill="#2a78d6"/>
+<text x="633.3" y="254.0" font-size="12" fill="#fcfcfb" font-weight="700" text-anchor="middle" >6</text>
+<text x="651.3" y="254.5" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Motor</text>
+<text x="627.3" y="278.5" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >metano, alta presión y reutilización</text>
+<text x="627.3" y="294.7" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >rápida</text>
+<path d="M736.7,330.1 V349.1 H163.3 V368.1" fill="none" stroke="#0b0b0b" stroke-width="1.5" marker-end="url(#fl)"/>
+<rect x="40.0" y="371.1" width="246.7" height="98.6" rx="6" fill="#fcfcfb" stroke="#8a8984" stroke-width="1"/>
+<circle cx="60.0" cy="392.1" r="11" fill="#2a78d6"/>
+<text x="60.0" y="396.6" font-size="12" fill="#fcfcfb" font-weight="700" text-anchor="middle" >7</text>
+<text x="78.0" y="397.1" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Fabricación</text>
+<text x="54.0" y="421.1" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >muchos motores: diseñados para</text>
+<text x="54.0" y="437.3" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >costar poco, no para el máximo</text>
+<text x="54.0" y="453.5" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >rendimiento</text>
+<line x1="289.7" y1="420.4" x2="323.7" y2="420.4" stroke="#0b0b0b" stroke-width="1.5" marker-end="url(#fl)"/>
+<rect x="326.7" y="371.1" width="246.7" height="98.6" rx="6" fill="#fcfcfb" stroke="#8a8984" stroke-width="1"/>
+<circle cx="346.7" cy="392.1" r="11" fill="#2a78d6"/>
+<text x="346.7" y="396.6" font-size="12" fill="#fcfcfb" font-weight="700" text-anchor="middle" >8</text>
+<text x="364.7" y="397.1" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Estructura</text>
+<text x="340.7" y="421.1" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >muchos vehículos, soldados al aire</text>
+<text x="340.7" y="437.3" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >libre y rotos seguido en las pruebas</text>
+<line x1="576.3" y1="420.4" x2="610.3" y2="420.4" stroke="#0b0b0b" stroke-width="1.5" marker-end="url(#fl)"/>
+<rect x="613.3" y="371.1" width="246.7" height="98.6" rx="6" fill="#cde2fb" stroke="#2a78d6" stroke-width="2.25"/>
+<circle cx="633.3" cy="392.1" r="11" fill="#2a78d6"/>
+<text x="633.3" y="396.6" font-size="12" fill="#fcfcfb" font-weight="700" text-anchor="middle" >9</text>
+<text x="651.3" y="397.1" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Material</text>
+<text x="627.3" y="421.1" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >acero inoxidable: barato, se suelda</text>
+<text x="627.3" y="437.3" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >en un galpón y es más resistente en</text>
+<text x="627.3" y="453.5" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >frío</text>
+<line x1="40.0" y1="487.7" x2="860.0" y2="487.7" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="514.7" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Leída desde abajo, la elección del acero parece un capricho. Leída desde la misión, no había otra.</text>
+<text x="40.0" y="535.5" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >Ésa es la diferencia entre una decisión de ingeniería y una decisión de misión.</text>
+<text x="40.0" y="559.2" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >Cadena reconstruida por este libro a partir de lo que SpaceX explicó en público; no es un documento de diseño de la empresa, y el orden real de las</text>
+<text x="40.0" y="574.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >decisiones fue más desordenado.</text>
+<text x="40.0" y="596.5" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

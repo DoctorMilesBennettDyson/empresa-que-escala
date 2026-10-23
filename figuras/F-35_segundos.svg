@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 395" width="900" height="395" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">La regla del segundo</title>
+<desc id="d">Un millón de segundos son 11,6 días, una rayita casi invisible; mil millones son 31,7 años, una barra que ocupa todo el ancho.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="900" height="395" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Cuánto es un millón de segundos? ¿Y mil millones?</text>
+<text x="40.0" y="58.8" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Las dos barras están a la misma escala: la de mil millones ocupa todo el ancho.</text>
+<text x="40.0" y="99.9" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Un millón de segundos</text>
+<text x="860.0" y="99.9" font-size="14" fill="#2a78d6" font-weight="700" text-anchor="end" >11,6 días</text>
+<rect x="40.0" y="109.9" width="1.2" height="30.0" fill="#2a78d6"/>
+<line x1="46.0" y1="124.9" x2="80.0" y2="124.9" stroke="#0b0b0b" stroke-width="1.2"/>
+<text x="86.0" y="128.4" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="start" >esta rayita: la milésima parte de la barra de abajo</text>
+<text x="40.0" y="183.9" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Mil millones de segundos</text>
+<text x="860.0" y="183.9" font-size="14" fill="#eb6834" font-weight="700" text-anchor="end" >31,7 años</text>
+<rect x="40.0" y="193.9" width="820.0" height="30.0" fill="#eb6834"/>
+<line x1="40.0" y1="223.9" x2="40.0" y2="228.9" stroke="#8a8984" stroke-width="1.0"/>
+<text x="40.0" y="241.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >0</text>
+<line x1="169.4" y1="223.9" x2="169.4" y2="228.9" stroke="#8a8984" stroke-width="1.0"/>
+<text x="169.4" y="241.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" ></text>
+<line x1="298.8" y1="223.9" x2="298.8" y2="228.9" stroke="#8a8984" stroke-width="1.0"/>
+<text x="298.8" y="241.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >10 años</text>
+<line x1="428.2" y1="223.9" x2="428.2" y2="228.9" stroke="#8a8984" stroke-width="1.0"/>
+<text x="428.2" y="241.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" ></text>
+<line x1="557.5" y1="223.9" x2="557.5" y2="228.9" stroke="#8a8984" stroke-width="1.0"/>
+<text x="557.5" y="241.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >20 años</text>
+<line x1="686.9" y1="223.9" x2="686.9" y2="228.9" stroke="#8a8984" stroke-width="1.0"/>
+<text x="686.9" y="241.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" ></text>
+<line x1="816.3" y1="223.9" x2="816.3" y2="228.9" stroke="#8a8984" stroke-width="1.0"/>
+<text x="816.3" y="241.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >30 años</text>
+<line x1="40.0" y1="265.9" x2="860.0" y2="265.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="292.9" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Mismo prefijo, y son once días contra treinta y dos años.</text>
+<text x="40.0" y="313.7" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >Si un millón de segundos fuera 1 centímetro, mil millones serían 10 metros. Al comparar millones con miles de millones</text>
+<text x="40.0" y="330.9" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >—presupuestos, patrimonios, deudas— la intuición verbal no sirve.</text>
+<text x="40.0" y="354.7" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >10⁶ s ÷ 86.400 s por día = 11,6 días; 10⁹ s ÷ 31.557.600 s por año = 31,7 años.</text>
+<text x="40.0" y="376.3" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

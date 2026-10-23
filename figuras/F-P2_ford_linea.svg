@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 546" width="900" height="546" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">La línea de Ford</title>
+<desc id="d">Arriba, una barra de 12 h 30 con un chasis antes de la línea y ocho bloques de 93 minutos con la línea. Abajo, el precio del Modelo T: US$850 en 1908 y US$260 en 1924-25.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="900" height="546" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Cuánto rindió la línea de montaje móvil de Ford?</text>
+<text x="40.0" y="58.8" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Arriba, las mismas 12 horas y media de trabajo, antes y después de la línea (1913). Abajo, el precio del Modelo T.</text>
+<text x="40.0" y="98.9" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >Antes de la línea: 1 chasis en 12 horas y media</text>
+<rect x="40.0" y="107.9" width="820.0" height="26.0" fill="url(#rayas_gris)" stroke="#8a8984" stroke-width="1.2"/>
+<text x="40.0" y="172.9" font-size="13.5" fill="#2a78d6" font-weight="700" text-anchor="start" >Con la línea móvil: 8 chasis, de 93 minutos cada uno</text>
+<rect x="41.0" y="181.9" width="99.7" height="26.0" fill="#2a78d6"/>
+<text x="90.8" y="199.9" font-size="13" fill="#fcfcfb" font-weight="700" text-anchor="middle" >1</text>
+<rect x="142.7" y="181.9" width="99.7" height="26.0" fill="#2a78d6"/>
+<text x="192.5" y="199.9" font-size="13" fill="#fcfcfb" font-weight="700" text-anchor="middle" >2</text>
+<rect x="244.4" y="181.9" width="99.7" height="26.0" fill="#2a78d6"/>
+<text x="294.2" y="199.9" font-size="13" fill="#fcfcfb" font-weight="700" text-anchor="middle" >3</text>
+<rect x="346.0" y="181.9" width="99.7" height="26.0" fill="#2a78d6"/>
+<text x="395.9" y="199.9" font-size="13" fill="#fcfcfb" font-weight="700" text-anchor="middle" >4</text>
+<rect x="447.7" y="181.9" width="99.7" height="26.0" fill="#2a78d6"/>
+<text x="497.6" y="199.9" font-size="13" fill="#fcfcfb" font-weight="700" text-anchor="middle" >5</text>
+<rect x="549.4" y="181.9" width="99.7" height="26.0" fill="#2a78d6"/>
+<text x="599.2" y="199.9" font-size="13" fill="#fcfcfb" font-weight="700" text-anchor="middle" >6</text>
+<rect x="651.1" y="181.9" width="99.7" height="26.0" fill="#2a78d6"/>
+<text x="700.9" y="199.9" font-size="13" fill="#fcfcfb" font-weight="700" text-anchor="middle" >7</text>
+<rect x="752.8" y="181.9" width="99.7" height="26.0" fill="#2a78d6"/>
+<text x="802.6" y="199.9" font-size="13" fill="#fcfcfb" font-weight="700" text-anchor="middle" >8</text>
+<line x1="40.0" y1="211.9" x2="40.0" y2="216.9" stroke="#8a8984" stroke-width="1.0"/>
+<text x="40.0" y="229.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >0 h</text>
+<line x1="171.2" y1="211.9" x2="171.2" y2="216.9" stroke="#8a8984" stroke-width="1.0"/>
+<text x="171.2" y="229.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >2 h</text>
+<line x1="302.4" y1="211.9" x2="302.4" y2="216.9" stroke="#8a8984" stroke-width="1.0"/>
+<text x="302.4" y="229.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >4 h</text>
+<line x1="433.6" y1="211.9" x2="433.6" y2="216.9" stroke="#8a8984" stroke-width="1.0"/>
+<text x="433.6" y="229.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >6 h</text>
+<line x1="564.8" y1="211.9" x2="564.8" y2="216.9" stroke="#8a8984" stroke-width="1.0"/>
+<text x="564.8" y="229.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >8 h</text>
+<line x1="696.0" y1="211.9" x2="696.0" y2="216.9" stroke="#8a8984" stroke-width="1.0"/>
+<text x="696.0" y="229.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >10 h</text>
+<line x1="860.0" y1="211.9" x2="860.0" y2="216.9" stroke="#8a8984" stroke-width="1.0"/>
+<text x="860.0" y="229.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >12 h 30</text>
+<text x="40.0" y="263.9" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >Precio del Modelo T, en dólares de cada año</text>
+<text x="40.0" y="287.9" font-size="12" fill="#52514e" font-weight="600" text-anchor="start" >1908</text>
+<rect x="40.0" y="293.9" width="630.0" height="22.0" fill="url(#rayas_gris)" stroke="#8a8984" stroke-width="1.2"/>
+<text x="678.0" y="309.9" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >US$850</text>
+<text x="40.0" y="339.9" font-size="12" fill="#52514e" font-weight="600" text-anchor="start" >1924-25, la versión más barata</text>
+<rect x="40.0" y="345.9" width="192.7" height="22.0" fill="#2a78d6"/>
+<text x="240.7" y="361.9" font-size="13.5" fill="#2a78d6" font-weight="700" text-anchor="start" >US$260 · menos de un tercio</text>
+<line x1="40.0" y1="397.9" x2="860.0" y2="397.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="424.9" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >En las 12 horas y media que llevaba armar un chasis, la línea móvil armaba 8; el Modelo T bajó de</text>
+<text x="40.0" y="445.2" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >US$850 a US$260.</text>
+<text x="40.0" y="465.9" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >Se fabricaron unos 15 millones de Modelos T.</text>
+<text x="40.0" y="489.7" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >Armado del chasis: de 12 h 30 a 93 minutos (Hounshell 1984) [reportado]. Precio de la versión más barata, en dólares de cada año, sin ajustar por</text>
+<text x="40.0" y="505.3" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >inflación [reportado]. Los ocho chasis de 93 minutos suman 744 de los 750 minutos.</text>
+<text x="40.0" y="526.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

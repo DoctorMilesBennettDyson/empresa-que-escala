@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 882" width="600" height="882" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">A un evento de no existir</title>
+<desc id="d">Tres vuelos fallidos del Falcon 1 (2006, 2007, agosto de 2008), el cuarto exitoso el 28 de septiembre de 2008, el contrato de la NASA el 23 de diciembre y la ronda de Tesla el 24. Grupo de control: Kistler Aerospace (quiebra en 2003), Fisker y Better Place (2013).</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="600" height="882" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿A cuánto estuvieron SpaceX y Tesla de no</text>
+<text x="40.0" y="64.3" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >existir?</text>
+<text x="40.0" y="86.1" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Lo que pasó de 2006 a la Navidad de 2008, en orden y sin escala de tiempo.</text>
+<text x="40.0" y="104.7" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Abajo, el grupo de control.</text>
+<text x="40.0" y="144.9" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >SpaceX y Tesla</text>
+<text x="70.0" y="170.9" font-size="11.5" fill="#52514e" font-weight="600" text-anchor="start" >2006</text>
+<text x="70.0" y="187.4" font-size="12.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >Falcon 1, vuelo 1: falla.</text>
+<text x="70.0" y="212.7" font-size="11.5" fill="#52514e" font-weight="600" text-anchor="start" >2007</text>
+<text x="70.0" y="229.2" font-size="12.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >Falcon 1, vuelo 2: falla.</text>
+<text x="70.0" y="254.6" font-size="11.5" fill="#52514e" font-weight="600" text-anchor="start" >agosto de 2008</text>
+<text x="70.0" y="271.1" font-size="12.5" fill="#0b0b0b" font-weight="400" text-anchor="start" >Falcon 1, vuelo 3: falla.</text>
+<text x="70.0" y="296.5" font-size="11.5" fill="#52514e" font-weight="600" text-anchor="start" >28 de septiembre de 2008</text>
+<text x="70.0" y="313.0" font-size="12.5" fill="#2a78d6" font-weight="700" text-anchor="start" >Falcon 1, vuelo 4: funciona. Era el último para el que alcanzaba el</text>
+<text x="70.0" y="329.9" font-size="12.5" fill="#2a78d6" font-weight="700" text-anchor="start" >dinero.</text>
+<text x="70.0" y="355.2" font-size="11.5" fill="#52514e" font-weight="600" text-anchor="start" >23 de diciembre de 2008</text>
+<text x="70.0" y="371.7" font-size="12.5" fill="#2a78d6" font-weight="400" text-anchor="start" >La NASA contrata a SpaceX 12 vuelos a la Estación Espacial, por unos US$1.600</text>
+<text x="70.0" y="388.6" font-size="12.5" fill="#2a78d6" font-weight="400" text-anchor="start" >millones.</text>
+<text x="70.0" y="414.0" font-size="11.5" fill="#52514e" font-weight="600" text-anchor="start" >24 de diciembre de 2008</text>
+<text x="70.0" y="430.5" font-size="12.5" fill="#2a78d6" font-weight="400" text-anchor="start" >Tesla cierra una ronda de unos US$40 millones en deuda convertible.</text>
+<line x1="50.0" y1="166.9" x2="50.0" y2="410.0" stroke="#e6e5e0" stroke-width="2"/>
+<circle cx="50.0" cy="166.9" r="9" fill="#fcfcfb" stroke="#eb6834" stroke-width="2"/>
+<line x1="46.2" y1="163.1" x2="53.8" y2="170.6" stroke="#eb6834" stroke-width="2"/>
+<line x1="46.2" y1="170.6" x2="53.8" y2="163.1" stroke="#eb6834" stroke-width="2"/>
+<circle cx="50.0" cy="208.7" r="9" fill="#fcfcfb" stroke="#eb6834" stroke-width="2"/>
+<line x1="46.2" y1="205.0" x2="53.8" y2="212.5" stroke="#eb6834" stroke-width="2"/>
+<line x1="46.2" y1="212.5" x2="53.8" y2="205.0" stroke="#eb6834" stroke-width="2"/>
+<circle cx="50.0" cy="250.6" r="9" fill="#fcfcfb" stroke="#eb6834" stroke-width="2"/>
+<line x1="46.2" y1="246.8" x2="53.8" y2="254.4" stroke="#eb6834" stroke-width="2"/>
+<line x1="46.2" y1="254.4" x2="53.8" y2="246.8" stroke="#eb6834" stroke-width="2"/>
+<circle cx="50.0" cy="292.5" r="9" fill="#2a78d6"/>
+<polyline points="46.0,292.7 49.1,295.9 54.3,289.2" fill="none" stroke="#fcfcfb" stroke-width="2.2" stroke-linejoin="round"/>
+<circle cx="50.0" cy="351.2" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="50.0" cy="410.0" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="40.0" y="469.9" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >El grupo de control</text>
+<text x="40.0" y="488.9" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >apuestas parecidas que terminaron en quiebra</text>
+<circle cx="50.0" cy="512.1" r="9" fill="#fcfcfb" stroke="#8a8984" stroke-width="2"/>
+<line x1="46.2" y1="508.3" x2="53.8" y2="515.8" stroke="#8a8984" stroke-width="2"/>
+<line x1="46.2" y1="515.8" x2="53.8" y2="508.3" stroke="#8a8984" stroke-width="2"/>
+<text x="70.0" y="516.1" font-size="12.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >Kistler Aerospace</text>
+<text x="70.0" y="531.6" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="start" >buscaba un cohete reutilizable y había reunido unos US$900 millones</text>
+<text x="70.0" y="549.6" font-size="12" fill="#eb6834" font-weight="700" text-anchor="start" >quiebra en 2003</text>
+<circle cx="50.0" cy="572.6" r="9" fill="#fcfcfb" stroke="#8a8984" stroke-width="2"/>
+<line x1="46.2" y1="568.8" x2="53.8" y2="576.4" stroke="#8a8984" stroke-width="2"/>
+<line x1="46.2" y1="576.4" x2="53.8" y2="568.8" stroke="#8a8984" stroke-width="2"/>
+<text x="70.0" y="576.6" font-size="12.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >Fisker</text>
+<text x="70.0" y="592.1" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="start" >autos</text>
+<text x="70.0" y="610.1" font-size="12" fill="#eb6834" font-weight="700" text-anchor="start" >quiebra en 2013</text>
+<circle cx="50.0" cy="633.1" r="9" fill="#fcfcfb" stroke="#8a8984" stroke-width="2"/>
+<line x1="46.2" y1="629.3" x2="53.8" y2="636.9" stroke="#8a8984" stroke-width="2"/>
+<line x1="46.2" y1="636.9" x2="53.8" y2="629.3" stroke="#8a8984" stroke-width="2"/>
+<text x="70.0" y="637.1" font-size="12.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >Better Place</text>
+<text x="70.0" y="652.6" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="start" >autos</text>
+<text x="70.0" y="670.6" font-size="12" fill="#eb6834" font-weight="700" text-anchor="start" >quiebra en 2013</text>
+<line x1="40.0" y1="696.6" x2="560.0" y2="696.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="723.6" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Las dos empresas estuvieron a un evento de todo o nada de no</text>
+<text x="40.0" y="743.9" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >existir: el cuarto vuelo era el último para el que alcanzaba el</text>
+<text x="40.0" y="764.1" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >dinero.</text>
+<text x="40.0" y="784.9" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >Contada sin el grupo de control, la historia parece una receta. Lo que no se copia</text>
+<text x="40.0" y="802.1" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >es la apuesta total.</text>
+<text x="40.0" y="825.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >Fechas y montos [reportado] (§2.5). Los pasos van en orden, sin escala de tiempo: del cuarto</text>
+<text x="40.0" y="841.5" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >vuelo al contrato de la NASA pasaron menos de tres meses.</text>
+<text x="40.0" y="863.1" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

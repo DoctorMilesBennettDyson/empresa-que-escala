@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 567" width="900" height="567" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">El «piso» de la curva de aprendizaje es muchas veces un efecto del eje</title>
+<desc id="d">La misma curva de Wright con 20 % de aprendizaje por duplicación, dibujada con eje común (parece aplanarse) y con eje por duplicaciones (es una escalera que sigue bajando 20 % por escalón).</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="900" height="567" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Llegaste al piso, o cambió la escala?</text>
+<text x="40.0" y="58.8" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >La misma curva de aprendizaje —el costo baja 20 % cada vez que se duplica lo hecho en total— dibujada dos veces.</text>
+<text x="40.0" y="99.9" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >A · Como se mira casi siempre</text>
+<text x="40.0" y="116.9" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >eje común: unidades de 0 a 1.024</text>
+<line x1="70.0" y1="379.9" x2="420.0" y2="379.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="62.0" y="383.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >0</text>
+<line x1="70.0" y1="322.4" x2="420.0" y2="322.4" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="62.0" y="326.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >25</text>
+<line x1="70.0" y1="264.9" x2="420.0" y2="264.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="62.0" y="268.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >50</text>
+<line x1="70.0" y1="207.4" x2="420.0" y2="207.4" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="62.0" y="211.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >75</text>
+<line x1="70.0" y1="149.9" x2="420.0" y2="149.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="62.0" y="153.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >100</text>
+<text x="70.0" y="397.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >0</text>
+<text x="157.5" y="397.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >256</text>
+<text x="245.0" y="397.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >512</text>
+<text x="332.5" y="397.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >768</text>
+<text x="420.0" y="397.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >1.024</text>
+<text x="245.0" y="415.9" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="middle" >unidades hechas en total</text>
+<text x="18.0" y="264.9" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="middle" transform="rotate(-90 18 264.93)">costo por unidad (la 1.ª = 100)</text>
+<line x1="148.6" y1="347.7" x2="420.0" y2="347.7" stroke="#eb6834" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="288.8" y="298.4" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="middle" >«ya no baja:</text>
+<text x="288.8" y="314.4" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="middle" >llegué al piso»</text>
+<line x1="288.8" y1="320.4" x2="288.8" y2="342.7" stroke="#eb6834" stroke-width="1.5"/>
+<polyline points="70.3,149.9 70.4,153.5 70.4,156.9 70.4,160.0 70.4,163.0 70.4,165.9 70.4,168.6 70.5,171.1 70.5,173.5 70.5,175.9 70.5,178.1 70.5,180.2 70.5,182.2 70.6,184.2 70.6,186.0 70.6,187.8 70.6,189.6 70.6,191.3 70.6,192.9 70.7,194.4 70.7,195.9 70.7,197.4 70.7,198.8 70.7,200.2 70.8,201.5 70.8,202.8 70.8,204.0 70.8,205.2 70.8,206.4 70.8,207.6 70.9,208.7 70.9,209.8 70.9,210.8 70.9,211.9 70.9,212.9 70.9,213.9 71.0,214.8 71.0,215.8 71.0,216.7 71.0,217.6 71.0,218.4 71.0,219.3 71.1,220.1 71.1,221.0 71.1,221.8 71.1,222.6 71.1,223.3 71.1,224.1 71.2,224.8 71.2,225.6 71.2,226.3 71.2,227.0 71.2,227.7 71.2,228.3 71.3,229.0 71.3,229.6 71.3,230.3 71.3,230.9 71.3,231.5 71.4,232.1 71.4,232.7 71.4,233.3 71.4,235.2 71.5,237.0 71.6,238.8 71.6,240.5 71.7,242.3 71.8,244.0 71.8,245.7 71.9,247.4 72.0,249.1 72.0,250.7 72.1,252.3 72.2,253.9 72.3,255.5 72.4,257.1 72.5,258.6 72.6,260.1 72.7,261.6 72.8,263.1 72.9,264.6 73.0,266.0 73.2,267.5 73.3,268.9 73.4,270.3 73.5,271.6 73.7,273.0 73.8,274.3 74.0,275.7 74.2,277.0 74.3,278.3 74.5,279.5 74.7,280.8 74.9,282.0 75.1,283.3 75.3,284.5 75.5,285.7 75.7,286.9 75.9,288.0 76.1,289.2 76.4,290.3 76.6,291.5 76.9,292.6 77.2,293.7 77.5,294.7 77.8,295.8 78.1,296.9 78.4,297.9 78.7,298.9 79.1,300.0 79.5,301.0 79.8,301.9 80.2,302.9 80.6,303.9 81.1,304.8 81.5,305.8 82.0,306.7 82.4,307.6 82.9,308.5 83.5,309.4 84.0,310.3 84.6,311.2 85.1,312.1 85.8,312.9 86.4,313.8 87.0,314.6 87.7,315.4 88.4,316.2 89.2,317.0 89.9,317.8 90.7,318.6 91.6,319.4 92.4,320.1 93.3,320.9 94.2,321.6 95.2,322.3 96.2,323.1 97.3,323.8 98.4,324.5 99.5,325.2 100.7,325.9 101.9,326.5 103.2,327.2 104.5,327.9 105.9,328.5 107.3,329.2 108.8,329.8 110.4,330.4 112.0,331.1 113.7,331.7 115.4,332.3 117.2,332.9 119.1,333.5 121.1,334.0 123.1,334.6 125.3,335.2 127.5,335.7 129.8,336.3 132.2,336.9 134.6,337.4 137.2,337.9 139.9,338.5 142.7,339.0 145.6,339.5 148.6,340.0 151.8,340.5 155.1,341.0 158.5,341.5 162.0,342.0 165.7,342.4 169.5,342.9 173.5,343.4 177.6,343.8 181.9,344.3 186.4,344.7 191.1,345.2 195.9,345.6 200.9,346.0 206.2,346.5 211.6,346.9 217.3,347.3 223.2,347.7 229.3,348.1 235.7,348.5 242.3,348.9 249.2,349.3 256.4,349.7 263.8,350.1 271.6,350.4 279.6,350.8 288.0,351.2 296.8,351.5 305.8,351.9 315.3,352.2 325.1,352.6 335.3,352.9 345.9,353.3 356.9,353.6 368.4,353.9 380.3,354.3 392.7,354.6 405.7,354.9 419.1,355.2 420.0,355.2" fill="none" stroke="#2a78d6" stroke-width="2.25" stroke-linejoin="round"/>
+<circle cx="70.3" cy="149.9" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="70.7" cy="195.9" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="71.4" cy="232.7" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="72.7" cy="262.2" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="75.5" cy="285.7" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="80.9" cy="304.6" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="91.9" cy="319.6" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="113.8" cy="331.7" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="157.5" cy="341.3" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="245.0" cy="349.1" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="420.0" cy="355.2" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<path d="M70.3,143.93 V135.93 H113.8 V143.93" fill="none" stroke="#0b0b0b" stroke-width="1.2"/>
+<text x="125.8" y="167.9" font-size="12" fill="#0b0b0b" font-weight="700" text-anchor="start" >8 de los 11 puntos</text>
+<text x="125.8" y="182.9" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >están amontonados acá,</text>
+<text x="125.8" y="197.9" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >en el primer 12 % del eje</text>
+<text x="490.0" y="99.9" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >B · Como hay que mirarla</text>
+<text x="490.0" y="116.9" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >cada marca del eje es el doble de la anterior</text>
+<path d="M510.0,379.93 V149.9 H545.0 V171.2 H580.0 V192.6 H615.0 V213.9 H650.0 V235.2 H685.0 V256.5 H720.0 V277.8 H755.0 V299.1 H790.0 V320.4 H825.0 V341.8 H860.0 V379.93 Z" fill="#cde2fb" stroke="none"/>
+<path d="M510.0,149.9 H545.0 V171.2 H580.0 V192.6 H615.0 V213.9 H650.0 V235.2 H685.0 V256.5 H720.0 V277.8 H755.0 V299.1 H790.0 V320.4 H825.0 V341.8 H860.0 V363.1" fill="none" stroke="#2a78d6" stroke-width="2.25" stroke-linejoin="round"/>
+<circle cx="510.0" cy="149.9" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="514.0" y="140.9" font-size="11" fill="#0b0b0b" font-weight="600" text-anchor="start" >100</text>
+<text x="510.0" y="397.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >1</text>
+<circle cx="545.0" cy="171.2" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="549.0" y="162.2" font-size="11" fill="#0b0b0b" font-weight="600" text-anchor="start" >80</text>
+<text x="545.0" y="397.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >2</text>
+<circle cx="580.0" cy="192.6" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="584.0" y="183.6" font-size="11" fill="#0b0b0b" font-weight="600" text-anchor="start" >64</text>
+<text x="580.0" y="397.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >4</text>
+<circle cx="615.0" cy="213.9" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="619.0" y="204.9" font-size="11" fill="#0b0b0b" font-weight="600" text-anchor="start" >51</text>
+<text x="615.0" y="397.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >8</text>
+<circle cx="650.0" cy="235.2" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="654.0" y="226.2" font-size="11" fill="#0b0b0b" font-weight="600" text-anchor="start" >41</text>
+<text x="650.0" y="397.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >16</text>
+<circle cx="685.0" cy="256.5" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="689.0" y="247.5" font-size="11" fill="#0b0b0b" font-weight="600" text-anchor="start" >33</text>
+<text x="685.0" y="397.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >32</text>
+<circle cx="720.0" cy="277.8" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="724.0" y="268.8" font-size="11" fill="#0b0b0b" font-weight="600" text-anchor="start" >26</text>
+<text x="720.0" y="397.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >64</text>
+<circle cx="755.0" cy="299.1" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="759.0" y="290.1" font-size="11" fill="#0b0b0b" font-weight="600" text-anchor="start" >21</text>
+<text x="755.0" y="397.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >128</text>
+<circle cx="790.0" cy="320.4" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="794.0" y="311.4" font-size="11" fill="#0b0b0b" font-weight="600" text-anchor="start" >17</text>
+<text x="790.0" y="397.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >256</text>
+<circle cx="825.0" cy="341.8" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="829.0" y="332.8" font-size="11" fill="#0b0b0b" font-weight="600" text-anchor="start" >13</text>
+<text x="825.0" y="397.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >512</text>
+<circle cx="860.0" cy="363.1" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="864.0" y="354.1" font-size="11" fill="#0b0b0b" font-weight="600" text-anchor="start" >11</text>
+<text x="860.0" y="397.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >1.024</text>
+<line x1="510.0" y1="379.9" x2="860.0" y2="379.9" stroke="#8a8984" stroke-width="1.0"/>
+<text x="685.0" y="415.9" font-size="11.5" fill="#52514e" font-weight="400" text-anchor="middle" >unidades hechas en total</text>
+<line x1="737.5" y1="273.8" x2="737.5" y2="195.9" stroke="#0b0b0b" stroke-width="1.0"/>
+<text x="695.5" y="155.9" font-size="12" fill="#0b0b0b" font-weight="700" text-anchor="start" >cada escalón:</text>
+<text x="695.5" y="170.9" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >el doble de unidades,</text>
+<text x="695.5" y="185.9" font-size="12" fill="#52514e" font-weight="400" text-anchor="start" >y la misma bajada: −20 %</text>
+<line x1="40.0" y1="437.9" x2="860.0" y2="437.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="464.9" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >La curva no se aplanó: cada escalón pide el doble de volumen que el anterior.</text>
+<text x="40.0" y="485.7" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >De 128 a 256 unidades hacen falta 128 más; de 512 a 1.024, 512 más. Mirada por mes parece un piso; mirada por duplicación, sigue</text>
+<text x="40.0" y="502.9" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >bajando.</text>
+<text x="40.0" y="526.7" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >Ley de Wright con r = 20 % por duplicación (b = 0,322). La curva no es automática: baja sólo si en cada duplicación alguien rediseña el proceso.</text>
+<text x="40.0" y="548.3" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

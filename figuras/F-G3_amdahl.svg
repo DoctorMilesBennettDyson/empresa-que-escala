@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 532" width="900" height="532" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">La ley de Amdahl</title>
+<desc id="d">Seis barras apiladas: el 40 % rayado no cambia y el 60 % azul se achica; el todo va 1,43, 1,82, 2,17, 2,46 y como máximo 2,50 veces más rápido.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="900" height="532" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Por qué acelerar una parte no acelera el todo?</text>
+<text x="40.0" y="58.8" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Tiempo total de un trabajo en el que el 40 % no se puede acelerar, a medida que el otro 60 % se hace más rápido.</text>
+<text x="290.0" y="111.9" font-size="12" fill="#eb6834" font-weight="700" text-anchor="start" >no se acelera: 40 %</text>
+<text x="476.0" y="111.9" font-size="12" fill="#2a78d6" font-weight="700" text-anchor="start" >se acelera: 60 %</text>
+<text x="860.0" y="97.9" font-size="11.5" fill="#52514e" font-weight="700" text-anchor="end" >el todo va</text>
+<text x="860.0" y="111.9" font-size="11.5" fill="#52514e" font-weight="700" text-anchor="end" >… veces más rápido</text>
+<text x="280.0" y="138.9" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="end" >como hoy</text>
+<rect x="290.0" y="121.9" width="180.0" height="24.0" fill="url(#rayas)" stroke="#eb6834" stroke-width="1.5"/>
+<rect x="470.0" y="121.9" width="270.0" height="24.0" fill="#2a78d6"/>
+<line x1="470.0" y1="117.9" x2="470.0" y2="149.9" stroke="#eb6834" stroke-width="1.4" stroke-dasharray="5 4"/>
+<text x="860.0" y="139.9" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="end" >1,00</text>
+<text x="280.0" y="176.9" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="end" >la otra parte, 2 veces más rápida</text>
+<rect x="290.0" y="159.9" width="180.0" height="24.0" fill="url(#rayas)" stroke="#eb6834" stroke-width="1.5"/>
+<rect x="470.0" y="159.9" width="135.0" height="24.0" fill="#2a78d6"/>
+<line x1="470.0" y1="155.9" x2="470.0" y2="187.9" stroke="#eb6834" stroke-width="1.4" stroke-dasharray="5 4"/>
+<text x="860.0" y="177.9" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="end" >1,43</text>
+<text x="280.0" y="214.9" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="end" >4 veces más rápida</text>
+<rect x="290.0" y="197.9" width="180.0" height="24.0" fill="url(#rayas)" stroke="#eb6834" stroke-width="1.5"/>
+<rect x="470.0" y="197.9" width="67.5" height="24.0" fill="#2a78d6"/>
+<line x1="470.0" y1="193.9" x2="470.0" y2="225.9" stroke="#eb6834" stroke-width="1.4" stroke-dasharray="5 4"/>
+<text x="860.0" y="215.9" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="end" >1,82</text>
+<text x="280.0" y="252.9" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="end" >10 veces más rápida</text>
+<rect x="290.0" y="235.9" width="180.0" height="24.0" fill="url(#rayas)" stroke="#eb6834" stroke-width="1.5"/>
+<rect x="470.0" y="235.9" width="27.0" height="24.0" fill="#2a78d6"/>
+<line x1="470.0" y1="231.9" x2="470.0" y2="263.9" stroke="#eb6834" stroke-width="1.4" stroke-dasharray="5 4"/>
+<text x="860.0" y="253.9" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="end" >2,17</text>
+<text x="280.0" y="290.9" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="end" >100 veces más rápida</text>
+<rect x="290.0" y="273.9" width="180.0" height="24.0" fill="url(#rayas)" stroke="#eb6834" stroke-width="1.5"/>
+<rect x="470.0" y="273.9" width="2.7" height="24.0" fill="#2a78d6"/>
+<line x1="470.0" y1="269.9" x2="470.0" y2="301.9" stroke="#eb6834" stroke-width="1.4" stroke-dasharray="5 4"/>
+<text x="860.0" y="291.9" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="end" >2,46</text>
+<text x="280.0" y="328.9" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="end" >infinitamente rápida</text>
+<rect x="290.0" y="311.9" width="180.0" height="24.0" fill="url(#rayas)" stroke="#eb6834" stroke-width="1.5"/>
+<line x1="470.0" y1="307.9" x2="470.0" y2="339.9" stroke="#eb6834" stroke-width="1.4" stroke-dasharray="5 4"/>
+<text x="860.0" y="329.9" font-size="15" fill="#eb6834" font-weight="700" text-anchor="end" >2,50</text>
+<text x="470.0" y="357.9" font-size="12.5" fill="#eb6834" font-weight="700" text-anchor="middle" >el todo nunca tarda menos que el 40 %: techo de 2,5 veces</text>
+<line x1="40.0" y1="383.9" x2="860.0" y2="383.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="410.9" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Aunque el 60 % se haga infinitamente rápido, el todo nunca va más de 2,5 veces más rápido: queda el</text>
+<text x="40.0" y="431.2" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >40 % que no se aceleró.</text>
+<text x="40.0" y="451.9" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >Antes de acelerar una parte, conviene medir cuánto pesa en el total: lo que no se toca pone el techo.</text>
+<text x="40.0" y="475.7" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >Amdahl 1967: el 40 % de las instrucciones eran tareas que se hacen paso por paso [verificado, secundaria]. Techo = 1 ÷ 0,40 = 2,5 [cálculo]. La ley</text>
+<text x="40.0" y="491.3" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >supone que el problema no crece: si con más capacidad se atiende un problema más grande, el límite se corre (Gustafson 1988).</text>
+<text x="40.0" y="512.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

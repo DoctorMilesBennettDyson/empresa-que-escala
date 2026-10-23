@@ -1,0 +1,97 @@
+<style>
+/* ============ A4 laser B/N — compacto ============ */
+@page { size: A4; margin: 10mm 11mm 11mm 11mm; }
+
+html, body {
+  max-width: none !important; width: auto !important; margin: 0 !important; padding: 0 !important;
+  color: #000 !important; background: #fff !important;
+}
+@media print {
+  html, body { max-width: none !important; width: auto !important; font-size: 9pt !important; }
+}
+
+body {
+  font-family: Cambria, Georgia, "Times New Roman", serif;
+  font-size: 9pt; line-height: 1.30; color: #000; background: #fff;
+  text-align: left; hyphens: auto; orphans: 3; widows: 3;
+}
+
+/* pandoc mete su propio bloque de título: sobra, el MD ya tiene H1 */
+header#title-block-header, h1.title, p.author, p.date { display: none !important; }
+
+/* ---------- jerarquía ---------- */
+h1, h2, h3, h4, h5 {
+  font-family: "Arial Narrow", Arial, Helvetica, sans-serif;
+  color: #000; page-break-after: avoid; break-after: avoid; text-wrap: balance;
+}
+h1 { font-size: 17pt; line-height: 1.06; letter-spacing: -.2pt; margin: 0 0 3mm;
+     padding-bottom: 1.6mm; border-bottom: 1.6pt solid #000; }
+h2 { font-size: 11.5pt; line-height: 1.12; margin: 6mm 0 2mm; padding-top: 1.4mm;
+     border-top: .9pt solid #000; letter-spacing: -.1pt; }
+h3 { font-size: 9.6pt; margin: 3.6mm 0 1.2mm; }
+/* h4 = entrada de catalogo (los 20 schemas). El otro tronco no usa h4. */
+h4 { font-size: 9.3pt; margin: 3.4mm 0 1.2mm; padding-top: 1.3mm;
+     border-top: .4pt solid #b0b0b0; letter-spacing: -.05pt; }
+
+p { margin: 0 0 1.7mm; }
+strong { font-weight: 700; }
+em { font-style: italic; }
+a { color: #000; text-decoration: none; }
+hr { border: 0; border-top: .6pt solid #000; margin: 3.5mm 0; }
+
+/* ---------- listas: la viñeta de <ul> sale rota al imprimir ---------- */
+ul { list-style: none; padding-left: 0; margin: 0 0 1.7mm; }
+ul > li { padding-left: 3.6mm; text-indent: -3.6mm; margin-bottom: .7mm; }
+ul > li::before {
+  content: "\2022"; font-family: Arial, Helvetica, sans-serif; font-size: 8pt;
+  display: inline-block; width: 3.6mm; text-indent: 0; }
+ul ul { margin: .6mm 0 0; }
+ol { padding-left: 5.2mm; margin: 0 0 1.7mm; }
+ol > li { margin-bottom: .9mm; padding-left: .4mm; }
+li > p { margin-bottom: .8mm; }
+
+/* ---------- tablas ---------- */
+table {
+  border-collapse: collapse; width: 100%; margin: 1.6mm 0 2.6mm;
+  font-size: 8pt; line-height: 1.22; page-break-inside: auto;
+}
+caption { display: none; }
+th, td {
+  border: .4pt solid #999; padding: .8mm 1.4mm; text-align: left; vertical-align: top;
+}
+th {
+  background: #e4e4e4; font-family: "Arial Narrow", Arial, sans-serif;
+  font-weight: 700; font-size: 7.6pt; line-height: 1.15;
+}
+thead { display: table-header-group; }
+tr { page-break-inside: avoid; break-inside: avoid; }
+tbody tr:nth-child(even) { background: #f5f5f5; }
+
+/* ---------- bloques de código: los diagramas ASCII ---------- */
+pre {
+  font-family: Consolas, "DejaVu Sans Mono", "Courier New", monospace;
+  font-size: 7.4pt; line-height: 1.16; margin: 1.8mm 0 2.4mm;
+  padding: 1.4mm 0 1.4mm 2.4mm; border-left: 1.4pt solid #000;
+  background: #fff; white-space: pre; overflow: visible;
+  page-break-inside: avoid; break-inside: avoid;
+}
+pre code { font-size: inherit; background: none; padding: 0; }
+code {
+  font-family: Consolas, "Courier New", monospace; font-size: 8.1pt;
+  background: #efefef; padding: 0 .5mm;
+}
+
+/* ---------- citas: las reglas duras del documento ---------- */
+blockquote {
+  margin: 2mm 0 2.4mm; padding: 1.2mm 0 1.2mm 3mm;
+  border-left: 2.2pt solid #000; font-size: 9.2pt; line-height: 1.26;
+  color: #000 !important;  /* pandoc trae #606060: en láser B/N sale gris lavado */
+}
+blockquote p { margin: 0 0 1mm; font-weight: 600; }
+blockquote p:last-child { margin-bottom: 0; }
+
+/* ---------- densidad: nada de páginas a medio usar ---------- */
+h2 + p, h3 + p { margin-top: 0; }
+p:last-child { margin-bottom: 0; }
+sup { font-size: 6.6pt; }
+</style>

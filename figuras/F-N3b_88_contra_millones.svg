@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 495" width="900" height="495" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Para dividir el costo por diez</title>
+<desc id="d">Volumen acumulado necesario para bajar el costo a la décima parte: con r de 30 % es 88 veces; 25 %, 256; 20 %, 1.280; 15 %, 18.400; 10 %, unos 3,8 millones de veces.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="900" height="495" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >Para dividir el costo por diez, ¿cuánto más hay que fabricar?</text>
+<text x="40.0" y="58.8" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Volumen acumulado necesario según la tasa de aprendizaje r (cuánto baja el costo cada vez que se duplica lo hecho).</text>
+<text x="40.0" y="77.4" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Escala logarítmica.</text>
+<line x1="190.0" y1="100.6" x2="190.0" y2="134.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="264.3" y1="100.6" x2="264.3" y2="134.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="412.9" y1="100.6" x2="412.9" y2="134.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="487.1" y1="100.6" x2="487.1" y2="134.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="561.4" y1="100.6" x2="561.4" y2="134.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="635.7" y1="100.6" x2="635.7" y2="134.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="710.0" y1="100.6" x2="710.0" y2="134.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="180.0" y="117.6" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="end" >r = 30 %</text>
+<text x="180.0" y="132.6" font-size="11" fill="#52514e" font-weight="400" text-anchor="end" >6,5 duplicaciones</text>
+<rect x="190.0" y="104.6" width="144.4" height="26.0" fill="#2a78d6"/>
+<text x="342.4" y="122.6" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >≈ 88 ×</text>
+<line x1="190.0" y1="98.6" x2="190.0" y2="136.6" stroke="#8a8984" stroke-width="1.0"/>
+<line x1="190.0" y1="144.6" x2="190.0" y2="178.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="264.3" y1="144.6" x2="264.3" y2="178.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="338.6" y1="144.6" x2="338.6" y2="178.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="487.1" y1="144.6" x2="487.1" y2="178.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="561.4" y1="144.6" x2="561.4" y2="178.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="635.7" y1="144.6" x2="635.7" y2="178.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="710.0" y1="144.6" x2="710.0" y2="178.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="180.0" y="161.6" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="end" >r = 25 %</text>
+<text x="180.0" y="176.6" font-size="11" fill="#52514e" font-weight="400" text-anchor="end" >8,0 duplicaciones</text>
+<rect x="190.0" y="148.6" width="179.0" height="26.0" fill="#cde2fb" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="377.0" y="166.6" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >≈ 256 ×</text>
+<line x1="190.0" y1="142.6" x2="190.0" y2="180.6" stroke="#8a8984" stroke-width="1.0"/>
+<line x1="190.0" y1="188.6" x2="190.0" y2="222.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="264.3" y1="188.6" x2="264.3" y2="222.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="338.6" y1="188.6" x2="338.6" y2="222.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="412.9" y1="188.6" x2="412.9" y2="222.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="561.4" y1="188.6" x2="561.4" y2="222.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="635.7" y1="188.6" x2="635.7" y2="222.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="710.0" y1="188.6" x2="710.0" y2="222.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="180.0" y="205.6" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="end" >r = 20 %</text>
+<text x="180.0" y="220.6" font-size="11" fill="#52514e" font-weight="400" text-anchor="end" >10,3 duplicaciones</text>
+<rect x="190.0" y="192.6" width="230.8" height="26.0" fill="#cde2fb" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="428.8" y="210.6" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >≈ 1.280 ×</text>
+<line x1="190.0" y1="186.6" x2="190.0" y2="224.6" stroke="#8a8984" stroke-width="1.0"/>
+<line x1="190.0" y1="232.6" x2="190.0" y2="266.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="264.3" y1="232.6" x2="264.3" y2="266.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="338.6" y1="232.6" x2="338.6" y2="266.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="412.9" y1="232.6" x2="412.9" y2="266.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="487.1" y1="232.6" x2="487.1" y2="266.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="635.7" y1="232.6" x2="635.7" y2="266.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="710.0" y1="232.6" x2="710.0" y2="266.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="180.0" y="249.6" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="end" >r = 15 %</text>
+<text x="180.0" y="264.6" font-size="11" fill="#52514e" font-weight="400" text-anchor="end" >14,2 duplicaciones</text>
+<rect x="190.0" y="236.6" width="316.8" height="26.0" fill="#cde2fb" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="514.8" y="254.6" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >≈ 18.400 ×</text>
+<line x1="190.0" y1="230.6" x2="190.0" y2="268.6" stroke="#8a8984" stroke-width="1.0"/>
+<line x1="190.0" y1="276.6" x2="190.0" y2="310.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="264.3" y1="276.6" x2="264.3" y2="310.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="338.6" y1="276.6" x2="338.6" y2="310.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="412.9" y1="276.6" x2="412.9" y2="310.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="487.1" y1="276.6" x2="487.1" y2="310.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="561.4" y1="276.6" x2="561.4" y2="310.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<line x1="635.7" y1="276.6" x2="635.7" y2="310.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="180.0" y="293.6" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="end" >r = 10 %</text>
+<text x="180.0" y="308.6" font-size="11" fill="#52514e" font-weight="400" text-anchor="end" >21,9 duplicaciones</text>
+<rect x="190.0" y="280.6" width="488.7" height="26.0" fill="#eb6834"/>
+<text x="686.7" y="298.6" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="start" >≈ 3,8 millones ×</text>
+<line x1="190.0" y1="274.6" x2="190.0" y2="312.6" stroke="#8a8984" stroke-width="1.0"/>
+<text x="190.0" y="326.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >1</text>
+<text x="264.3" y="326.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >10</text>
+<text x="338.6" y="326.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >100</text>
+<text x="412.9" y="326.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >1.000</text>
+<text x="487.1" y="326.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >10.000</text>
+<text x="561.4" y="326.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >100.000</text>
+<text x="635.7" y="326.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >1 millón</text>
+<text x="710.0" y="326.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="middle" >10 mill.</text>
+<line x1="40.0" y1="350.6" x2="860.0" y2="350.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="377.6" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Con 30 % de aprendizaje alcanza con 88 veces el volumen; con 10 %, casi cuatro millones.</text>
+<text x="40.0" y="398.3" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >Es el mismo objetivo y son dos universos: uno es un plan de negocios, el otro una fantasía. Y depende de un número que casi nadie</text>
+<text x="40.0" y="415.6" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >mide.</text>
+<text x="40.0" y="439.3" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >Ley de Wright: duplicaciones N = ln(0,1) ÷ ln(1 − r); el volumen acumulado se multiplica por 2^N. Supone que r se mantiene; hay que medirlo en cada</text>
+<text x="40.0" y="454.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >caso.</text>
+<text x="40.0" y="476.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

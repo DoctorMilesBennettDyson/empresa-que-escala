@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 635" width="900" height="635" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">El jornal de cinco dólares</title>
+<desc id="d">Plantilla media de 1913: 13,6 figuras de 1.000 personas; contratadas en el año: 50,4. Jornal: US$2,34 antes y US$5 desde enero de 1914.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="900" height="635" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Por qué Ford pagó cinco dólares por día?</text>
+<text x="40.0" y="58.8" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Ford en 1913, el año de la línea móvil: la plantilla media y la gente que hubo que contratar para sostenerla. Cada figura</text>
+<text x="40.0" y="77.4" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >son 1.000 personas.</text>
+<text x="40.0" y="118.1" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >Plantilla media: 13.623 personas</text>
+<circle cx="56.4" cy="135.6" r="4.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<rect x="48.5" y="141.5" width="15.8" height="16.9" rx="6.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<circle cx="89.2" cy="135.6" r="4.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<rect x="81.3" y="141.5" width="15.8" height="16.9" rx="6.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<circle cx="122.0" cy="135.6" r="4.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<rect x="114.1" y="141.5" width="15.8" height="16.9" rx="6.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<circle cx="154.8" cy="135.6" r="4.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<rect x="146.9" y="141.5" width="15.8" height="16.9" rx="6.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<circle cx="187.6" cy="135.6" r="4.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<rect x="179.7" y="141.5" width="15.8" height="16.9" rx="6.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<circle cx="220.4" cy="135.6" r="4.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<rect x="212.5" y="141.5" width="15.8" height="16.9" rx="6.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<circle cx="253.2" cy="135.6" r="4.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<rect x="245.3" y="141.5" width="15.8" height="16.9" rx="6.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<circle cx="286.0" cy="135.6" r="4.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<rect x="278.1" y="141.5" width="15.8" height="16.9" rx="6.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<circle cx="318.8" cy="135.6" r="4.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<rect x="310.9" y="141.5" width="15.8" height="16.9" rx="6.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<circle cx="351.6" cy="135.6" r="4.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<rect x="343.7" y="141.5" width="15.8" height="16.9" rx="6.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<circle cx="384.4" cy="135.6" r="4.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<rect x="376.5" y="141.5" width="15.8" height="16.9" rx="6.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<circle cx="417.2" cy="135.6" r="4.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<rect x="409.3" y="141.5" width="15.8" height="16.9" rx="6.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<circle cx="450.0" cy="135.6" r="4.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<rect x="442.1" y="141.5" width="15.8" height="16.9" rx="6.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<clipPath id="pp_pl_ap"><rect x="474.9" y="130.8" width="9.8" height="28.2"/></clipPath>
+<circle cx="482.8" cy="135.6" r="4.2" fill="#fcfcfb" stroke="#b4b3ad" stroke-width="1.4" stroke-dasharray="2 2"/>
+<rect x="474.9" y="141.5" width="15.8" height="16.9" rx="6.2" fill="#fcfcfb" stroke="#b4b3ad" stroke-width="1.4" stroke-dasharray="2 2"/>
+<g clip-path="url(#pp_pl_ap)">
+<circle cx="482.8" cy="135.6" r="4.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+<rect x="474.9" y="141.5" width="15.8" height="16.9" rx="6.2" fill="#b4b3ad" stroke="none" stroke-width="0"/>
+</g>
+<text x="40.0" y="189.9" font-size="13.5" fill="#eb6834" font-weight="700" text-anchor="start" >Contratadas en el año: 50.448 personas</text>
+<circle cx="56.4" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="48.5" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="89.2" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="81.3" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="122.0" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="114.1" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="154.8" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="146.9" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="187.6" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="179.7" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="220.4" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="212.5" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="253.2" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="245.3" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="286.0" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="278.1" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="318.8" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="310.9" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="351.6" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="343.7" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="384.4" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="376.5" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="417.2" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="409.3" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="450.0" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="442.1" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="482.8" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="474.9" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="515.6" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="507.7" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="548.4" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="540.5" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="581.2" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="573.3" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="614.0" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="606.1" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="646.8" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="638.9" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="679.6" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="671.7" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="712.4" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="704.5" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="745.2" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="737.3" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="778.0" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="770.1" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="810.8" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="802.9" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="843.6" cy="207.4" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="835.7" y="213.3" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="56.4" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="48.5" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="89.2" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="81.3" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="122.0" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="114.1" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="154.8" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="146.9" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="187.6" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="179.7" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="220.4" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="212.5" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="253.2" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="245.3" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="286.0" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="278.1" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="318.8" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="310.9" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="351.6" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="343.7" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="384.4" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="376.5" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="417.2" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="409.3" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="450.0" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="442.1" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="482.8" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="474.9" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="515.6" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="507.7" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="548.4" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="540.5" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="581.2" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="573.3" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="614.0" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="606.1" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="646.8" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="638.9" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="679.6" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="671.7" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="712.4" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="704.5" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="745.2" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="737.3" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="778.0" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="770.1" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="810.8" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="802.9" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<circle cx="843.6" cy="239.0" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="835.7" y="244.9" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<clipPath id="pp_co_ap"><rect x="48.5" y="265.8" width="7.1" height="28.2"/></clipPath>
+<circle cx="56.4" cy="270.6" r="4.2" fill="#fcfcfb" stroke="#eb6834" stroke-width="1.4" stroke-dasharray="2 2"/>
+<rect x="48.5" y="276.5" width="15.8" height="16.9" rx="6.2" fill="#fcfcfb" stroke="#eb6834" stroke-width="1.4" stroke-dasharray="2 2"/>
+<g clip-path="url(#pp_co_ap)">
+<circle cx="56.4" cy="270.6" r="4.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+<rect x="48.5" y="276.5" width="15.8" height="16.9" rx="6.2" fill="#eb6834" stroke="none" stroke-width="0"/>
+</g>
+<text x="40.0" y="324.9" font-size="13.5" fill="#eb6834" font-weight="700" text-anchor="start" >3,7 contrataciones por cada puesto: una rotación de alrededor del 370 %</text>
+<text x="40.0" y="364.6" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >Jornal básico por día, en dólares de cada año</text>
+<text x="40.0" y="387.6" font-size="12" fill="#52514e" font-weight="600" text-anchor="start" >antes de enero de 1914</text>
+<rect x="40.0" y="393.6" width="280.8" height="22.0" fill="url(#rayas_gris)" stroke="#8a8984" stroke-width="1.2"/>
+<text x="328.8" y="409.6" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >US$2,34</text>
+<text x="40.0" y="439.6" font-size="12" fill="#52514e" font-weight="600" text-anchor="start" >desde enero de 1914</text>
+<rect x="40.0" y="445.6" width="600.0" height="22.0" fill="#2a78d6"/>
+<text x="648.0" y="461.6" font-size="13.5" fill="#2a78d6" font-weight="700" text-anchor="start" >US$5,00 · más del doble</text>
+<line x1="40.0" y1="487.6" x2="860.0" y2="487.6" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="514.6" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Para sostener 13.623 puestos, Ford contrató a 50.448 personas en un año: 3,7 por puesto. El jornal de</text>
+<text x="40.0" y="534.9" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >cinco dólares fue el precio de retener gente en un trabajo muy duro.</text>
+<text x="40.0" y="555.6" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >Una compensación mide el costo de lo que compensa; no prueba que fuera bueno.</text>
+<text x="40.0" y="579.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >[reportado — Raff y Summers 1987; archivo de The Henry Ford]. 50.448 ÷ 13.623 ≈ 3,7: una rotación de alrededor del 370 % [cálculo]. La última figura</text>
+<text x="40.0" y="595.0" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >de cada grupo es parcial. Jornal en dólares de cada año, sin ajustar por inflación.</text>
+<text x="40.0" y="616.6" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

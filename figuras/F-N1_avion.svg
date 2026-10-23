@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 418" width="900" height="418" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">El mismo avión, tirado o reutilizado</title>
+<desc id="d">Un avión de 50 millones de dólares y 180 asientos cuesta unos 280.000 dólares por pasajero si se tira tras un vuelo, y unos 6 si se reutiliza 50.000 vuelos: una división por 50.000.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="900" height="418" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Cuánto cuesta el avión en cada pasaje?</text>
+<text x="40.0" y="58.8" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Un avión de pasillo único: unos US$50 millones y 180 asientos. Tirado después de un vuelo, o usado toda su vida.</text>
+<text x="40.0" y="99.9" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Se tira después de un vuelo</text>
+<text x="40.0" y="117.9" font-size="13" fill="#eb6834" font-weight="700" text-anchor="start" >≈ US$280.000 por pasajero</text>
+<rect x="40.0" y="129.9" width="772.0" height="34.0" fill="#eb6834"/>
+<polygon points="812.0,129.9 812.0,129.9 818.0,135.6 812.0,141.3 818.0,146.9 812.0,152.6 818.0,158.3 812.0,163.9 812.0,163.9" fill="#eb6834"/>
+<line x1="828.0" y1="146.9" x2="860.0" y2="146.9" stroke="#eb6834" stroke-width="2" stroke-dasharray="4 3" marker-end="url(#fl_na)"/>
+<text x="860.0" y="181.9" font-size="12" fill="#52514e" font-weight="400" text-anchor="end" >y sigue: si la barra de abajo mide 1 milímetro, ésta mide 50 metros</text>
+<text x="40.0" y="223.9" font-size="14" fill="#0b0b0b" font-weight="700" text-anchor="start" >Se reutiliza: unos 50.000 vuelos en su vida</text>
+<text x="40.0" y="241.9" font-size="13" fill="#2a78d6" font-weight="700" text-anchor="start" >≈ US$6 por pasajero</text>
+<rect x="40.0" y="253.9" width="3.0" height="34.0" fill="#2a78d6"/>
+<line x1="48.0" y1="270.9" x2="84.0" y2="270.9" stroke="#0b0b0b" stroke-width="1.2"/>
+<text x="90.0" y="275.4" font-size="12.5" fill="#0b0b0b" font-weight="600" text-anchor="start" >esta rayita: 1 milímetro</text>
+<line x1="40.0" y1="305.9" x2="860.0" y2="305.9" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="332.9" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Mismo metal, mismo combustible, misma tripulación: la diferencia no es tecnología, es una división</text>
+<text x="40.0" y="353.2" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >por 50.000.</text>
+<text x="40.0" y="377.4" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >Orden de magnitud: ilustra el cociente, no es una contabilidad. Cuenta sólo el avión, sin combustible, tripulación ni mantenimiento.</text>
+<text x="40.0" y="399.1" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>

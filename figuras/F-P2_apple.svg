@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 668" width="900" height="668" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Apple: borrar y ordenar</title>
+<desc id="d">Una barra de la línea de productos con el 70 % borrado; la cuadrícula de cuatro (consumidor o profesional, escritorio o portátil); resultado: −1.045 millones en 1997 y +309 en 1998.</desc>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b0b0b"/></marker><marker id="fl_az" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="fl_na" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#eb6834"/></marker><pattern id="rayas" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="7" height="7" fill="#fbd9ca"/><line x1="0" y1="0" x2="0" y2="7" stroke="#eb6834" stroke-width="3"/></pattern><pattern id="rayas_gris" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#ecebe6"/><line x1="0" y1="0" x2="0" y2="6" stroke="#b4b3ad" stroke-width="2.5"/></pattern></defs>
+<rect width="900" height="668" fill="#fcfcfb"/>
+<text x="40.0" y="37.0" font-size="21" fill="#0b0b0b" font-weight="700" text-anchor="start" >¿Qué hizo Apple con su línea de productos en 1997?</text>
+<text x="40.0" y="58.8" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >Al volver Jobs: primero borró la mayor parte de la línea; después ordenó lo que quedó en cuatro casillas. Al final, el</text>
+<text x="40.0" y="77.4" font-size="13.5" fill="#52514e" font-weight="400" text-anchor="start" >resultado de los dos ejercicios.</text>
+<text x="40.0" y="117.6" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >1 · La línea de productos</text>
+<rect x="40.0" y="126.6" width="574.0" height="30.0" fill="url(#rayas)" stroke="#eb6834" stroke-width="1.5"/>
+<rect x="614.0" y="126.6" width="246.0" height="30.0" fill="#2a78d6"/>
+<text x="40.0" y="176.6" font-size="12.5" fill="#eb6834" font-weight="700" text-anchor="start" >se borró alrededor del 70 %</text>
+<text x="618.0" y="176.6" font-size="12.5" fill="#2a78d6" font-weight="700" text-anchor="start" >quedó el 30 %</text>
+<text x="40.0" y="223.6" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >2 · Lo que quedó, en una cuadrícula de cuatro</text>
+<text x="215.0" y="248.6" font-size="12.5" fill="#52514e" font-weight="600" text-anchor="middle" >escritorio</text>
+<text x="365.0" y="248.6" font-size="12.5" fill="#52514e" font-weight="600" text-anchor="middle" >portátil</text>
+<text x="130.0" y="296.6" font-size="12.5" fill="#52514e" font-weight="600" text-anchor="end" >consumidor</text>
+<rect x="143.0" y="259.6" width="144.0" height="66.0" rx="4" fill="#cde2fb" stroke="#2a78d6" stroke-width="1.2"/>
+<rect x="197.0" y="273.6" width="36.0" height="26.0" rx="2" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.6"/>
+<line x1="215.0" y1="299.6" x2="215.0" y2="305.6" stroke="#2a78d6" stroke-width="2.2"/>
+<line x1="205.0" y1="306.6" x2="225.0" y2="306.6" stroke="#2a78d6" stroke-width="2.2"/>
+<rect x="293.0" y="259.6" width="144.0" height="66.0" rx="4" fill="#cde2fb" stroke="#2a78d6" stroke-width="1.2"/>
+<rect x="349.0" y="278.6" width="32.0" height="21.0" rx="2" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.6"/>
+<path d="M343.0,301.6 H387.0 L383.0,306.6 H347.0 Z" fill="#2a78d6"/>
+<text x="130.0" y="368.6" font-size="12.5" fill="#52514e" font-weight="600" text-anchor="end" >profesional</text>
+<rect x="143.0" y="331.6" width="144.0" height="66.0" rx="4" fill="#cde2fb" stroke="#2a78d6" stroke-width="1.2"/>
+<rect x="197.0" y="345.6" width="36.0" height="26.0" rx="2" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.6"/>
+<line x1="215.0" y1="371.6" x2="215.0" y2="377.6" stroke="#2a78d6" stroke-width="2.2"/>
+<line x1="205.0" y1="378.6" x2="225.0" y2="378.6" stroke="#2a78d6" stroke-width="2.2"/>
+<rect x="293.0" y="331.6" width="144.0" height="66.0" rx="4" fill="#cde2fb" stroke="#2a78d6" stroke-width="1.2"/>
+<rect x="349.0" y="350.6" width="32.0" height="21.0" rx="2" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.6"/>
+<path d="M343.0,373.6 H387.0 L383.0,378.6 H347.0 Z" fill="#2a78d6"/>
+<text x="510.0" y="224.1" font-size="13.5" fill="#0b0b0b" font-weight="700" text-anchor="start" >3 · Resultado del ejercicio, en millones de US$</text>
+<line x1="540.0" y1="311.1" x2="808.0" y2="311.1" stroke="#8a8984" stroke-width="1.2"/>
+<text x="534.0" y="315.1" font-size="11" fill="#8a8984" font-weight="400" text-anchor="end" >0</text>
+<rect x="560.0" y="311.1" width="74.0" height="150.0" fill="#eb6834"/>
+<text x="597.0" y="481.1" font-size="15" fill="#eb6834" font-weight="700" text-anchor="middle" >−1.045</text>
+<text x="597.0" y="303.1" font-size="12.5" fill="#52514e" font-weight="600" text-anchor="middle" >1997</text>
+<rect x="704.0" y="266.8" width="74.0" height="44.4" fill="#2a78d6"/>
+<text x="741.0" y="258.8" font-size="15" fill="#2a78d6" font-weight="700" text-anchor="middle" >+309</text>
+<text x="741.0" y="329.1" font-size="12.5" fill="#52514e" font-weight="600" text-anchor="middle" >1998</text>
+<line x1="40.0" y1="505.1" x2="860.0" y2="505.1" stroke="#e6e5e0" stroke-width="1.0"/>
+<text x="40.0" y="532.1" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >Apple borró alrededor del 70 % de su línea y ordenó el resto en cuatro casillas; en el ejercicio</text>
+<text x="40.0" y="552.4" font-size="15" fill="#0b0b0b" font-weight="700" text-anchor="start" >siguiente pasó de perder US$1.045 millones a ganar US$309 millones.</text>
+<text x="40.0" y="573.1" font-size="12.5" fill="#52514e" font-weight="400" text-anchor="start" >Simplificar es trabajo —se trata de sacar—, no ausencia de trabajo.</text>
+<text x="40.0" y="596.9" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >Línea reducida alrededor de un 70 % y cuadrícula de cuatro [reportado — Isaacson 2011]; resultados de los ejercicios 1997 y 1998 [reportado —</text>
+<text x="40.0" y="612.5" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >informes anuales de Apple]. La figura junta los dos hechos; no mide cuánto del cambio se debe al foco [interpretación]. La barra de la línea es una</text>
+<text x="40.0" y="628.1" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >proporción: no cuenta productos.</text>
+<text x="40.0" y="649.7" font-size="11" fill="#8a8984" font-weight="400" text-anchor="start" >© Pablo Luciano Rainieri Blasco · CC BY 4.0 · Fuente: Cómo se construye una empresa que escala</text>
+</svg>
