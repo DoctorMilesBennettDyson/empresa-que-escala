@@ -32,9 +32,9 @@ Los PDF se arman con pandoc y las hojas de estilo `_estilo_*.html`. La herramien
 
 ## Licencia y cita
 
-© 2026 Pablo Luciano Rainieri Blasco. El texto, las figuras y las láminas tienen licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](LICENSE). Se pueden copiar, adaptar, traducir y redistribuir, también con fines comerciales, siempre que se cite al autor.
+Escrito por Claude (Anthropic) a pedido de Pablo Luciano Rainieri Blasco, que lo publica y no lo revisó entero (ver [AUTORIA.md](AUTORIA.md)). El texto, las figuras y las láminas tienen licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](LICENSE). Se pueden copiar, adaptar, traducir y redistribuir, también con fines comerciales, siempre que se cite al autor.
 
-> Rainieri Blasco, P. L. (2026). *Cómo se construye una empresa que escala* (versión 2.0). CC BY 4.0. https://github.com/DoctorMilesBennettDyson/empresa-que-escala
+> Claude (Anthropic), a pedido de P. L. Rainieri Blasco (2026). *Cómo se construye una empresa que escala* (versión 2.0). CC BY 4.0. https://github.com/DoctorMilesBennettDyson/empresa-que-escala
 
 ---
 
